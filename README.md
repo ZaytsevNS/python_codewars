@@ -12,6 +12,7 @@
 ### 7 kyu
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
 - [Get decimal part of the given number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_decimal.py) - [Link to CodeWars](https://www.codewars.com/kata/586e4c61aa0428f04e000069)
+- [Rearange Number to Get its Maximum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_redigit.py) - [Link to CodeWars](https://www.codewars.com/kata/563700da1ac8be8f1e0000dc)
 - [-](-) - [Link to CodeWars](-)
 
 ## Info for CodeWarriors:
