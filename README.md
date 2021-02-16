@@ -1,4 +1,4 @@
-## Solutions codewars kata\`s - Python 3
+## Solutions codewars kata\`s for Python 3.
 
 **My profile on [codewars](https://www.codewars.com/users/NikolayZaytsev)**:
 
