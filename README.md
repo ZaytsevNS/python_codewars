@@ -37,7 +37,7 @@
 - [Number Of Occurrences](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/number_of_occurrences.py) - [Link to CodeWars](https://www.codewars.com/kata/52829c5fe08baf7edc00122b)
 - [Leap Years](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/isLeapYear.py) - [Link to CodeWars](https://www.codewars.com/kata/526c7363236867513f0005ca)
 - [Alphabet war](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/alphabet_war.py) - [Link to CodeWars](https://www.codewars.com/kata/59377c53e66267c8f6000027)
-- [Averages of numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/averages.py) - [Link to CodeWars](Averages of numbers)
+- [Averages of numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/averages.py) - [Link to CodeWars](https://www.codewars.com/kata/57d2807295497e652b000139)
 - [-](-) - [Link to CodeWars](-)
 
 ## Info for CodeWarriors:
