@@ -1,3 +1,3 @@
 # Python 3 - Codewars
-**My [profile](https://www.codewars.com/users/NikolayZaytsev)**
+**My [profile] on codewars (https://www.codewars.com/users/NikolayZaytsev) **:
 ![](https://www.codewars.com/users/NikolayZaytsev/badges/large?logo=false)
