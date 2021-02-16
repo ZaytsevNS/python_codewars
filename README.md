@@ -7,6 +7,7 @@
 ### 8 kyu
 - [My head is at the wrong end!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/fix_the_meerkat.py) - [Link to CodeWars](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
 - [Lario and Muigi Pipe Problem](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/pipe_fix.py) - [Link to CodeWars](https://www.codewars.com/kata/56b29582461215098d00000f)
+- [Stringy Strings](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/stringy.py) - [Link to CodeWars](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
 ### 7 kyu
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
