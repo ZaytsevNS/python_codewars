@@ -14,6 +14,8 @@
 - [Get decimal part of the given number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_decimal.py) - [Link to CodeWars](https://www.codewars.com/kata/586e4c61aa0428f04e000069)
 - [Rearange Number to Get its Maximum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_redigit.py) - [Link to CodeWars](https://www.codewars.com/kata/563700da1ac8be8f1e0000dc)
 - [Largest Elements](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/largest.py) - [Link to CodeWars](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
+- [Area of a Circle](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/circle_area.py) - [Link to CodeWars](https://www.codewars.com/kata/537baa6f8f4b300b5900106c)
+
 - [-](-) - [Link to CodeWars](-)
 
 ## Info for CodeWarriors:
