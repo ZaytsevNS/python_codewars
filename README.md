@@ -1,4 +1,4 @@
-# Python 3 - Codewars
+**Python 3 - Codewars**
 
 **My profile on [codewars](https://www.codewars.com/users/NikolayZaytsev)**:
 
