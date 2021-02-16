@@ -15,7 +15,7 @@
 - [Rearange Number to Get its Maximum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_redigit.py) - [Link to CodeWars](https://www.codewars.com/kata/563700da1ac8be8f1e0000dc)
 - [Largest Elements](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/largest.py) - [Link to CodeWars](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
 - [Area of a Circle](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/circle_area.py) - [Link to CodeWars](https://www.codewars.com/kata/537baa6f8f4b300b5900106c)
-
+- [Unlimited Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum.py) - [Link to CodeWars](https://www.codewars.com/kata/536c738e49aa8b663b000301)
 - [-](-) - [Link to CodeWars](-)
 
 ## Info for CodeWarriors:
