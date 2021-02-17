@@ -46,6 +46,8 @@
 - [Grader](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/grader.py) - [Link to CodeWars](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c)
 - [Swap Values](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/swap_values.py) - [Link to CodeWars](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)
 - [Welcome to the City](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/say_hello.py) - [Link to CodeWars](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+- [Reversed Words](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/reverse_words.py) - [Link to CodeWars](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
+- 
 - [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
@@ -68,6 +70,13 @@
 - [Averages of numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/averages.py) - [Link to CodeWars](https://www.codewars.com/kata/57d2807295497e652b000139)
 - [Factorial Factory](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/factorial.py) - [Link to CodeWars](https://www.codewars.com/kata/528e95af53dcdb40b5000171)
 - [No oddities here](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/no_odds.py) - [Link to CodeWars](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce)
+- [Simple consecutive pairs](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/pairs.py) - [Link to CodeWars](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
+- [Summy](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/summy.py) - [Link to CodeWars](https://www.codewars.com/kata/599c20626bd8795ce900001d)
+- [String ends with?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solution.py) - [Link to CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+- [Limit string length - 1](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/limit_string_length.py) - [Link to CodeWars](https://www.codewars.com/kata/5208fc3cb613bc725f000142)
+- [Power of two](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/power_of_two.py) - [Link to CodeWars](https://www.codewars.com/kata/534d0a229345375d520006a0)
+- [Find Screen Size](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_screen_height.py) - [Link to CodeWars](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)
+- [Form The Largest](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_number.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e)
 - [-](-) - [Link to CodeWars](-)
 
 ## Info for CodeWarriors:
