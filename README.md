@@ -4,6 +4,9 @@
 
 ![Codewars Rank](https://www.codewars.com/users/NikolayZaytsev/badges/large)
 
+**Navigation:**
+[8KYU](https://github.com/ZaytsevNS/python_codewars#8-kyu) | [7KYU](https://github.com/ZaytsevNS/python_codewars#7-kyu) | [6KYU](https://github.com/ZaytsevNS/python_codewars#6-kyu) | [5KYU](https://github.com/ZaytsevNS/python_codewars#5-kyu) | [4KYU](https://github.com/ZaytsevNS/python_codewars#4-kyu) | [3KYU](https://github.com/ZaytsevNS/python_codewars#3-kyu) | [2KYU](https://github.com/ZaytsevNS/python_codewars#2-kyu) | [1KYU](https://github.com/ZaytsevNS/python_codewars#1-kyu) | [Info for Codewarriors](https://github.com/ZaytsevNS/python_codewars#info-for-codewarriors)
+
 ### 8 kyu:
 - [My head is at the wrong end!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/fix_the_meerkat.py) - [Link to CodeWars](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
 - [Lario and Muigi Pipe Problem](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/pipe_fix.py) - [Link to CodeWars](https://www.codewars.com/kata/56b29582461215098d00000f)
@@ -174,10 +177,20 @@
 - [Is a number prime?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 
 ### 5 kyu:
-- [-](-) - [-](-)
-- [-](-) - [-](-)
-- [-](-) - [-](-)
-- [-](-) - [-](-)
+- [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+- [Moving Zeros To The End](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/move_zeros.py) - [Link to CodeWars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+
+### 4 kyu:
+- [...]
+- 
+### 3 kyu:
+- [...]
+- 
+### 2 kyu:
+- [...]
+- 
+### 1 kyu:
+- [...]
 
 ## Info for CodeWarriors:
 - Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches.
