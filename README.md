@@ -58,7 +58,13 @@
 - [Beginner Series #2 Clock](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/past.py) - [Link to CodeWars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
 - [A wolf in sheep's clothing](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/warn_the_sheep.py) - [Link to CodeWars](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)
 - [Square(n) Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/square_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/515e271a311df0350d00000f)
-- [-](-) - [Link to CodeWars](-)
+- [Removing Elements](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/remove_every_other.py) - [Link to CodeWars](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
+- [Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/difference_in_ages.py) - [Link to CodeWars](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2)
+- [All Star Code Challenge #18](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/str_count.py) - [Link to CodeWars](https://www.codewars.com/kata/5865918c6b569962950002a1)
+- [SpeedCode #2 - Array Madness](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/array_madness.py) - [Link to CodeWars](https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1)
+- [Is the string uppercase?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_uppercase.py) - [Link to CodeWars](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+- [Abbreviate a Two Word Name](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/abbrev_name.py) - [Link to CodeWars](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+- [Get Planet Name By ID](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/get_planet_name.py) - [Link to CodeWars](https://www.codewars.com/kata/515e188a311df01cba000003)
 - [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
@@ -95,12 +101,20 @@
 - [Sentences should start with capital letters.](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/fix.py) - [Link to CodeWars](https://www.codewars.com/kata/5bf774a81505a7413400006a)
 - [Least Larger](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/least_larger.py) - [Link to CodeWars](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)
 - [Remove consecutive duplicate words](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_consecutive_duplicates.py) - [Link to CodeWars](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3)
-- 
+- [Password Hashes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/pass_hash.py) - [Link to CodeWars](https://www.codewars.com/kata/54207f9677730acd490000d1)
+- [Return a string's even characters.](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_chars.py) - [Link to CodeWars](https://www.codewars.com/kata/566044325f8fddc1c000002c)
+- [Substituting Variables Into Strings: Padded Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/formatted_string.py) - [Link to CodeWars](https://www.codewars.com/kata/51c89385ee245d7ddf000001)
+- [Array element parity](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solve.py) - [Link to CodeWars](https://www.codewars.com/kata/5a092d9e46d843b9db000064)
+- [Sum of array singles](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/repeats.py) - [Link to CodeWars](https://www.codewars.com/kata/59f11118a5e129e591000134)
+- [Even odd disparity](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_odd_disparity.py) - [Link to CodeWars](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)
+- [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
-- [-](-) - [Link to CodeWars](-)
+- [Sum of Digits / Digital Root](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/digital_root.py) - [Link to CodeWars](https://www.codewars.com/kata/541c8630095125aba6000c00)
+- [What century is it?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/what_century.py) - [Link to CodeWars](https://www.codewars.com/kata/52fb87703c1351ebd200081f)
+- [Sum two arrays](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sum_arrays.py) - [Link to CodeWars](https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
 - [-](-) - [Link to CodeWars](-)
 
 
