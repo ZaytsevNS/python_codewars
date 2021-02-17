@@ -5,6 +5,7 @@
 ![Codewars Rank](https://www.codewars.com/users/NikolayZaytsev/badges/large)
 
 **Navigation:**
+
 [8KYU](https://github.com/ZaytsevNS/python_codewars#8-kyu) | [7KYU](https://github.com/ZaytsevNS/python_codewars#7-kyu) | [6KYU](https://github.com/ZaytsevNS/python_codewars#6-kyu) | [5KYU](https://github.com/ZaytsevNS/python_codewars#5-kyu) | [4KYU](https://github.com/ZaytsevNS/python_codewars#4-kyu) | [3KYU](https://github.com/ZaytsevNS/python_codewars#3-kyu) | [2KYU](https://github.com/ZaytsevNS/python_codewars#2-kyu) | [1KYU](https://github.com/ZaytsevNS/python_codewars#1-kyu) | [Info for Codewarriors](https://github.com/ZaytsevNS/python_codewars#info-for-codewarriors)
 
 ### 8 kyu:
@@ -182,13 +183,13 @@
 
 ### 4 kyu:
 - [...]
-- 
+
 ### 3 kyu:
 - [...]
-- 
+
 ### 2 kyu:
 - [...]
-- 
+
 ### 1 kyu:
 - [...]
 
