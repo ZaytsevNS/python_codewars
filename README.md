@@ -72,8 +72,8 @@
 - [Area or Perimeter](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/area_or_perimeter.py) - [Link to CodeWars](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)
 - [Grasshopper - Debug](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/weather_info.py) - [Link to CodeWars](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
 - [N-th Power](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/index.py) - [Link to CodeWars](https://www.codewars.com/kata/57d814e4950d8489720008db)
-- [-](-) - [Link to CodeWars](-)
-- [-](-) - [Link to CodeWars](-)
+- [Total amount of points](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/points.py) - [Link to CodeWars](https://www.codewars.com/kata/5bb904724c47249b10000131)
+- [Century From Year](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/century.py) - [Link to CodeWars](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 - [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
@@ -121,6 +121,13 @@
 - [Sort Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sort_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 - [Two Oldest Ages](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/two_oldest_ages.py) - [Link to CodeWars](https://www.codewars.com/kata/511f11d355fe575d2c000001)
 - [Regexp Basics - is it a vowel?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_vowel.py) - [Link to CodeWars](https://www.codewars.com/kata/567bed99ee3451292c000025)
+- [Form The Minimum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/min_value.py) - [Link to CodeWars](https://www.codewars.com/kata/5ac6932b2f317b96980000ca)
+- [Highest and Lowest](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/high_and_low.py) - [Link to CodeWars](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+- [List Filtering](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/filter_list.py) - [Link to CodeWars](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+- [Simple Fun #176: Reverse Letter](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
+- [Don't give me five!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/dont_give_me_five.py) - [Link to CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
+- [-](-) - [Link to CodeWars](-)
+- [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
 ### 6 kyu:
