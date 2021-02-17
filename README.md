@@ -65,6 +65,16 @@
 - [Is the string uppercase?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_uppercase.py) - [Link to CodeWars](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 - [Abbreviate a Two Word Name](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/abbrev_name.py) - [Link to CodeWars](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 - [Get Planet Name By ID](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/get_planet_name.py) - [Link to CodeWars](https://www.codewars.com/kata/515e188a311df01cba000003)
+- [Welcome!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/greet_language.py) - [Link to CodeWars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
+- [Quarter of the year](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/quarter_of.py) - [Link to CodeWars](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
+- [Check the exam](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/check_exam.py) - [Link to CodeWars](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
+- [Parse float](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/parse_float.py) - [Link to CodeWars](https://www.codewars.com/kata/57a386117cb1f31890000039)
+- [Area or Perimeter](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/area_or_perimeter.py) - [Link to CodeWars](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)
+- [Grasshopper - Debug](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/weather_info.py) - [Link to CodeWars](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
+- [N-th Power](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/index.py) - [Link to CodeWars](https://www.codewars.com/kata/57d814e4950d8489720008db)
+- [-](-) - [Link to CodeWars](-)
+- [-](-) - [Link to CodeWars](-)
+- [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
@@ -107,7 +117,10 @@
 - [Array element parity](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solve.py) - [Link to CodeWars](https://www.codewars.com/kata/5a092d9e46d843b9db000064)
 - [Sum of array singles](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/repeats.py) - [Link to CodeWars](https://www.codewars.com/kata/59f11118a5e129e591000134)
 - [Even odd disparity](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_odd_disparity.py) - [Link to CodeWars](https://www.codewars.com/kata/59c62f1bdcc40560a2000060)
-- [-](-) - [Link to CodeWars](-)
+- [Building Strings From a Hash](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/strings_from_a_hash.py) - [Link to CodeWars](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2)
+- [Sort Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sort_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
+- [Two Oldest Ages](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/two_oldest_ages.py) - [Link to CodeWars](https://www.codewars.com/kata/511f11d355fe575d2c000001)
+- [Regexp Basics - is it a vowel?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_vowel.py) - [Link to CodeWars](https://www.codewars.com/kata/567bed99ee3451292c000025)
 - [-](-) - [Link to CodeWars](-)
 
 ### 6 kyu:
