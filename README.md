@@ -52,7 +52,13 @@
 - [Will there be enough space?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/enough.py) - [Link to CodeWars](https://www.codewars.com/kata/5875b200d520904a04000003)
 - [Multiplication table for number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/multi_table.py) - [Link to CodeWars](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
 - [Function 2 - squaring an argument](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/square.py) - [Link to CodeWars](https://www.codewars.com/kata/523b623152af8a30c6000027)
-- 
+- [Smallest unused ID](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/next_id.py) - [Link to CodeWars](https://www.codewars.com/kata/55eea63119278d571d00006a)
+- [Are You Playing Banjo?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/areYouPlayingBanjo.py) - [Link to CodeWars](https://www.codewars.com/kata/53af2b8861023f1d88000832)
+- [You Can't Code Under Pressure #1](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/double_integer.py) - [Link to CodeWars](https://www.codewars.com/kata/53ee5429ba190077850011d4)
+- [Beginner Series #2 Clock](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/past.py) - [Link to CodeWars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
+- [A wolf in sheep's clothing](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/warn_the_sheep.py) - [Link to CodeWars](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)
+- [Square(n) Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/square_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/515e271a311df0350d00000f)
+- [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
@@ -85,10 +91,17 @@
 - [Even or Odd - Which is Greater?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_or_odd.py) - [Link to CodeWars](https://www.codewars.com/kata/57f7b8271e3d9283300000b4)
 - [Sum of the first nth term of Series](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/series_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/555eded1ad94b00403000071)
 - [Numbers in strings](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/largest_number.py) - [Link to CodeWars](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)
+- [Reverser](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse.py) - [Link to CodeWars](https://www.codewars.com/kata/58069e4cf3c13ef3a6000168)
+- [Sentences should start with capital letters.](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/fix.py) - [Link to CodeWars](https://www.codewars.com/kata/5bf774a81505a7413400006a)
+- [Least Larger](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/least_larger.py) - [Link to CodeWars](https://www.codewars.com/kata/5f8341f6d030dc002a69d7e4)
+- [Remove consecutive duplicate words](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_consecutive_duplicates.py) - [Link to CodeWars](https://www.codewars.com/kata/5b39e91ee7a2c103300018b3)
+- 
 - [-](-) - [Link to CodeWars](-)
 
 ### 6 kyu:
-- [Find the unique number](-) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+- [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+- [-](-) - [Link to CodeWars](-)
+- [-](-) - [Link to CodeWars](-)
 
 
 ## Info for CodeWarriors:
