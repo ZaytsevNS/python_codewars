@@ -47,6 +47,11 @@
 - [Swap Values](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/swap_values.py) - [Link to CodeWars](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)
 - [Welcome to the City](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/say_hello.py) - [Link to CodeWars](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 - [Reversed Words](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/reverse_words.py) - [Link to CodeWars](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
+- [Find the first non-consecutive number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/first_non_consecutive.py) - [Link to CodeWars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
+- [Switch it Up!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/switch_it_up.py) - [Link to CodeWars](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031)
+- [Will there be enough space?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/enough.py) - [Link to CodeWars](https://www.codewars.com/kata/5875b200d520904a04000003)
+- [Multiplication table for number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/multi_table.py) - [Link to CodeWars](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
+- [Function 2 - squaring an argument](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/square.py) - [Link to CodeWars](https://www.codewars.com/kata/523b623152af8a30c6000027)
 - 
 - [-](-) - [Link to CodeWars](-)
 
@@ -77,7 +82,14 @@
 - [Power of two](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/power_of_two.py) - [Link to CodeWars](https://www.codewars.com/kata/534d0a229345375d520006a0)
 - [Find Screen Size](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_screen_height.py) - [Link to CodeWars](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)
 - [Form The Largest](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_number.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e)
+- [Even or Odd - Which is Greater?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_or_odd.py) - [Link to CodeWars](https://www.codewars.com/kata/57f7b8271e3d9283300000b4)
+- [Sum of the first nth term of Series](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/series_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/555eded1ad94b00403000071)
+- [Numbers in strings](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/largest_number.py) - [Link to CodeWars](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)
 - [-](-) - [Link to CodeWars](-)
+
+### 6 kyu:
+- [Find the unique number](-) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+
 
 ## Info for CodeWarriors:
 - Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches.
