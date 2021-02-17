@@ -79,6 +79,17 @@
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/to_alternating_case.py) - [Link to CodeWars](https://www.codewars.com/kata/56efc695740d30f963000557)
 - [Convert number to reversed array of digits](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/digitize.py) - [Link to CodeWars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 - [Remove First and Last Character](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/remove_char.py) - [Link to CodeWars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+- [Sum without highest and lowest number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/sum_array.py) - [Link to CodeWars](https://www.codewars.com/kata/576b93db1129fcf2200001e6)
+- [Invert values](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/invert.py) - [Link to CodeWars](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
+- [Do I get a bonus?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/bonus_time.py) - [Link to CodeWars](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
+- [Fake Binary](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/fake_bin.py) - [Link to CodeWars](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+- [Count of positives / sum of negatives](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/count_positives_sum_negatives.py) - [Link to CodeWars](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+- [A Needle in the Haystack](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/find_needle.py) - [Link to CodeWars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
+- [Beginner - Lost Without a Map](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/maps.py) - [Link to CodeWars](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
+- [Basic Mathematical Operations](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/basic_op.py) - [Link to CodeWars](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
+- [Is n divisible by x and y?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_divisible.py) - [Link to CodeWars](https://www.codewars.com/kata/5545f109004975ea66000086)
+- [Keep Hydrated!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/litres.py) - [Link to CodeWars](https://www.codewars.com/kata/582cb0224e56e068d800003c)
+- [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
@@ -133,7 +144,10 @@
 - [Vowel Count](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_count.py) - [Link to CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [Odd or Even?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/odd_or_even.py) - [Link to CodeWars](https://www.codewars.com/kata/5949481f86420f59480000e7)
 - [Regexp Basics - is it a letter?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/567de72e8b3621b3c300000b)
-- [-](-) - [Link to CodeWars](-)
+- [Binary Addition](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add_binary.py) - [Link to CodeWars](https://www.codewars.com/kata/551f37452ff852b7bd000139)
+- [Reverse words](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_words.py) - [Link to CodeWars](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+- [Friend or Foe?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/friend.py) - [Link to CodeWars](https://www.codewars.com/kata/55b42574ff091733d900002f)
+- [Beginner Series #3 Sum of Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 - [-](-) - [Link to CodeWars](-)
 
 ### 6 kyu:
