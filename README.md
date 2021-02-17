@@ -89,8 +89,6 @@
 - [Basic Mathematical Operations](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/basic_op.py) - [Link to CodeWars](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
 - [Is n divisible by x and y?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_divisible.py) - [Link to CodeWars](https://www.codewars.com/kata/5545f109004975ea66000086)
 - [Keep Hydrated!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/litres.py) - [Link to CodeWars](https://www.codewars.com/kata/582cb0224e56e068d800003c)
-- [-](-) - [Link to CodeWars](-)
-- [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
@@ -148,7 +146,17 @@
 - [Reverse words](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_words.py) - [Link to CodeWars](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - [Friend or Foe?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/friend.py) - [Link to CodeWars](https://www.codewars.com/kata/55b42574ff091733d900002f)
 - [Beginner Series #3 Sum of Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/55f2b110f61eb01779000053)
-- [-](-) - [Link to CodeWars](-)
+- [Square Every Digit](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/square_digits.py) - [Link to CodeWars](https://www.codewars.com/kata/546e2562b03326a88e000020)
+- [Regex validate PIN code](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/validate_pin.py) - [Link to CodeWars](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+- [Sum of two lowest positive integers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_two_smallest_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+- [Shortest Word](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_short.py) - [Link to CodeWars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+- [Is this a triangle?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/56606694ec01347ce800001b)
+- [Ones and Zeros](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/binary_array_to_number.py) - [Link to CodeWars](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+- [Find the divisors!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/divisors.py) - [Link to CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4)
+- [Credit Card Mask](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/maskify.py) - [Link to CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc)
+- [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063) - [Link to CodeWars](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/min_max.py)
+- [Sum of Cubes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_cubes.py) - [Link to CodeWars](https://www.codewars.com/kata/59a8570b570190d313000037)
+- [Remove the minimum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_smallest.py) - [Link to CodeWars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
@@ -156,11 +164,20 @@
 - [What century is it?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/what_century.py) - [Link to CodeWars](https://www.codewars.com/kata/52fb87703c1351ebd200081f)
 - [Sum two arrays](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sum_arrays.py) - [Link to CodeWars](https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
 - [Find the odd int](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_it.py) - [Link to CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
-- [-](-) - [Link to CodeWars](-)
-- [-](-) - [Link to CodeWars](-)
-- [-](-) - [Link to CodeWars](-)
-- [-](-) - [Link to CodeWars](-)
+- [Encrypt this!](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/encrypt_this.py) - [Link to CodeWars](https://www.codewars.com/kata/5848565e273af816fb000449)
+- [Kebabize](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/kebabize.py) - [Link to CodeWars](https://www.codewars.com/kata/57f8ff867a28db569e000c4a)
+- [Unique In Order](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/unique_in_order.py) - [Link to CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667)
+- [+1 Array](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/up_array.py) - [Link to CodeWars](https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9)
+- [CamelCase Method](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/camel_case.py) - [Link to CodeWars](https://www.codewars.com/kata/587731fda577b3d1b0001196)
+- [Bit Counting](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/count_bits.py) - [Link to CodeWars](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+- [Who likes it?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/likes.py) - [Link to CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [Is a number prime?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 
+### 5 kyu:
+- [-](-) - [-](-)
+- [-](-) - [-](-)
+- [-](-) - [-](-)
+- [-](-) - [-](-)
 
 ## Info for CodeWarriors:
 - Codewarriors are strongly encouraged not to look at my solutions to Kata until you have completed it yourselves or at least took the time to think about your own approaches.
