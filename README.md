@@ -74,7 +74,11 @@
 - [N-th Power](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/index.py) - [Link to CodeWars](https://www.codewars.com/kata/57d814e4950d8489720008db)
 - [Total amount of points](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/points.py) - [Link to CodeWars](https://www.codewars.com/kata/5bb904724c47249b10000131)
 - [Century From Year](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/century.py) - [Link to CodeWars](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
-- [-](-) - [Link to CodeWars](-)
+- [Find numbers which are divisible by given number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/divisible_by.py) - [Link to CodeWars](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+- [Beginner - Reduce but Grow](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/grow.py) - [Link to CodeWars](https://www.codewars.com/kata/57f780909f7e8e3183000078)
+- [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/to_alternating_case.py) - [Link to CodeWars](https://www.codewars.com/kata/56efc695740d30f963000557)
+- [Convert number to reversed array of digits](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/digitize.py) - [Link to CodeWars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
+- [Remove First and Last Character](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/remove_char.py) - [Link to CodeWars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 - [-](-) - [Link to CodeWars](-)
 
 ### 7 kyu:
@@ -126,7 +130,9 @@
 - [List Filtering](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/filter_list.py) - [Link to CodeWars](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 - [Simple Fun #176: Reverse Letter](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
 - [Don't give me five!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/dont_give_me_five.py) - [Link to CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
-- [-](-) - [Link to CodeWars](-)
+- [Vowel Count](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_count.py) - [Link to CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+- [Odd or Even?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/odd_or_even.py) - [Link to CodeWars](https://www.codewars.com/kata/5949481f86420f59480000e7)
+- [Regexp Basics - is it a letter?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/567de72e8b3621b3c300000b)
 - [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
@@ -135,6 +141,10 @@
 - [Sum of Digits / Digital Root](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/digital_root.py) - [Link to CodeWars](https://www.codewars.com/kata/541c8630095125aba6000c00)
 - [What century is it?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/what_century.py) - [Link to CodeWars](https://www.codewars.com/kata/52fb87703c1351ebd200081f)
 - [Sum two arrays](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sum_arrays.py) - [Link to CodeWars](https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6)
+- [Find the odd int](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_it.py) - [Link to CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [-](-) - [Link to CodeWars](-)
+- [-](-) - [Link to CodeWars](-)
+- [-](-) - [Link to CodeWars](-)
 - [-](-) - [Link to CodeWars](-)
 
 
