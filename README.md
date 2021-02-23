@@ -162,6 +162,7 @@
 - [Sum of Cubes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_cubes.py) - [Link to CodeWars](https://www.codewars.com/kata/59a8570b570190d313000037)
 - [Remove the minimum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_smallest.py) - [Link to CodeWars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 - [Spoonerize Me](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/spoonerize.py) - [Link to CodeWars](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
+- [Divide and Conquer](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/div_con.py) - [Link to CodeWars](https://www.codewars.com/kata/57eaec5608fed543d6000021)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
