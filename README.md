@@ -166,6 +166,7 @@
 - [Double Trouble](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/trouble.py) - [Link to CodeWars](https://www.codewars.com/kata/57f7796697d62fc93d0001b8)
 - [Area of an annulus](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/annulus_area.py) - [Link to CodeWars](https://www.codewars.com/kata/5896616336c4bad1c50000d7)
 - [transform an array into a string](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/transform.py) - [Link to CodeWars](https://www.codewars.com/kata/59a602dc57019008d900004e)
+- [Lost number in number sequence](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_deleted_number.py) - [Link to CodeWars](https://www.codewars.com/kata/595aa94353e43a8746000120)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
