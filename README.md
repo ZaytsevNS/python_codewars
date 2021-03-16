@@ -170,6 +170,7 @@
 - [transform an array into a string](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/transform.py) - [Link to CodeWars](https://www.codewars.com/kata/59a602dc57019008d900004e)
 - [Lost number in number sequence](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_deleted_number.py) - [Link to CodeWars](https://www.codewars.com/kata/595aa94353e43a8746000120)
 - [Satisfying numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/smallest.py) - [Link to CodeWars](https://www.codewars.com/kata/55e7d9d63bdc3caa2500007d)
+- [Bugs Life](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/shortest_distance.py) - [Link to CodeWars](https://www.codewars.com/kata/5b71af678adeae41df00008c)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
