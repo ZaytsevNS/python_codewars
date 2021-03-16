@@ -94,6 +94,7 @@
 - [Is n divisible by x and y?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_divisible.py) - [Link to CodeWars](https://www.codewars.com/kata/5545f109004975ea66000086)
 - [Keep Hydrated!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/litres.py) - [Link to CodeWars](https://www.codewars.com/kata/582cb0224e56e068d800003c)
 - [Merge two sorted arrays into one](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/arrays_merge.py) - [Link to CodeWars](https://www.codewars.com/kata/5899642f6e1b25935d000161)
+- [Twice as old](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/twice_as_old.py) - [Link to CodeWars](https://www.codewars.com/kata/5b853229cfde412a470000d0)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
