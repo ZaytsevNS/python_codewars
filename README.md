@@ -174,6 +174,7 @@
 - [Bugs Life](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/shortest_distance.py) - [Link to CodeWars](https://www.codewars.com/kata/5b71af678adeae41df00008c)
 - [Sum - Square Even, Root Odd](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_square_even_root_odd.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4b16435f08299c7000274f)
 - [All unique](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/has_unique_chars.py) - [Link to CodeWars](https://www.codewars.com/kata/553e8b195b853c6db4000048)
+- [Next Prime](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/next_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/58e230e5e24dde0996000070)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
