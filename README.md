@@ -96,6 +96,7 @@
 - [Merge two sorted arrays into one](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/arrays_merge.py) - [Link to CodeWars](https://www.codewars.com/kata/5899642f6e1b25935d000161)
 - [Twice as old](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/twice_as_old.py) - [Link to CodeWars](https://www.codewars.com/kata/5b853229cfde412a470000d0)
 - [Find Maximum and Minimum Values of a List](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/min_max.py) - [Link to CodeWars](https://www.codewars.com/kata/577a98a6ae28071780000989)
+- [Get Nth Even Number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/nth_even.py) - [Link to CodeWars](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
@@ -176,6 +177,7 @@
 - [All unique](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/has_unique_chars.py) - [Link to CodeWars](https://www.codewars.com/kata/553e8b195b853c6db4000048)
 - [Next Prime](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/next_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/58e230e5e24dde0996000070)
 - [Heron's formula](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/heron.py) - [Link to CodeWars](https://www.codewars.com/kata/57aa218e72292d98d500240f)
+- [Sum even numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_even_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
