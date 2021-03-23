@@ -178,6 +178,7 @@
 - [Next Prime](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/next_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/58e230e5e24dde0996000070)
 - [Heron's formula](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/heron.py) - [Link to CodeWars](https://www.codewars.com/kata/57aa218e72292d98d500240f)
 - [Sum even numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_even_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
+- [Hex Hash Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/hex_hash.py) - [Link to CodeWars](https://www.codewars.com/kata/5ab363ff6a176b29880000dd/)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
