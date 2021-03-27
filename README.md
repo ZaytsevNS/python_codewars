@@ -98,6 +98,7 @@
 - [Find Maximum and Minimum Values of a List](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/min_max.py) - [Link to CodeWars](https://www.codewars.com/kata/577a98a6ae28071780000989)
 - [Get Nth Even Number](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/nth_even.py) - [Link to CodeWars](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
 - [Logical calculator](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/logical_calc.py) - [Link to CodeWars](https://www.codewars.com/kata/57096af70dad013aa200007b)
+- [Remove exclamation marks](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/remove_exclamation_marks.py) - [Link to CodeWars](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
