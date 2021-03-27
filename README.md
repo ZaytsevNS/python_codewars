@@ -182,6 +182,7 @@
 - [Hex Hash Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/hex_hash.py) - [Link to CodeWars](https://www.codewars.com/kata/5ab363ff6a176b29880000dd/)
 - [Grandma learning to text](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/textin.py) - [Link to CodeWars](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0)
 - [Olympic Rings](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/olympic_ring.py) - [Link to CodeWars](https://www.codewars.com/kata/57d06663eca260fe630001cc)
+- [Maximum Product](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/adjacent_element_product.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
