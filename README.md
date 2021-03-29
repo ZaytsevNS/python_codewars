@@ -185,6 +185,7 @@
 - [Olympic Rings](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/olympic_ring.py) - [Link to CodeWars](https://www.codewars.com/kata/57d06663eca260fe630001cc)
 - [Maximum Product](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/adjacent_element_product.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
 - [Reverse a Number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_number.py) - [Link to CodeWars](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)
+- [Count the divisors of a number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_divisors.py) - [Link to CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
