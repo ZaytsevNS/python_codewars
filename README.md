@@ -190,6 +190,7 @@
 - [Count the divisors of a number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_divisors.py) - [Link to CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
 - [Write out expression!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/expression_out.py) - [Link to CodeWars](https://www.codewars.com/kata/57e2afb6e108c01da000026e)
 - [Count the Digit](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/nb_dig.py) - [Link to CodeWars](https://www.codewars.com/kata/566fc12495810954b1000030)
+- [Char Code Calculation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calc.py) - [Link to CodeWars](https://www.codewars.com/kata/57f75cc397d62fc93d000059)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
