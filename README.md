@@ -188,6 +188,7 @@
 - [Reverse a Number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_number.py) - [Link to CodeWars](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)
 - [Count the divisors of a number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_divisors.py) - [Link to CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
 - [Write out expression!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/expression_out.py) - [Link to CodeWars](https://www.codewars.com/kata/57e2afb6e108c01da000026e)
+- [Count the Digit](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/nb_dig.py) - [Link to CodeWars](https://www.codewars.com/kata/566fc12495810954b1000030)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
