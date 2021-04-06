@@ -192,6 +192,7 @@
 - [Write out expression!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/expression_out.py) - [Link to CodeWars](https://www.codewars.com/kata/57e2afb6e108c01da000026e)
 - [Count the Digit](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/nb_dig.py) - [Link to CodeWars](https://www.codewars.com/kata/566fc12495810954b1000030)
 - [Char Code Calculation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calc.py) - [Link to CodeWars](https://www.codewars.com/kata/57f75cc397d62fc93d000059)
+- [Max sum between two negatives](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_sum_between_two_negatives.py) - [Link to CodeWars](https://www.codewars.com/kata/6066ae080168ff0032c4107a)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
