@@ -196,6 +196,7 @@
 - [Paul's Misery](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/paul.py) - [Link to CodeWars](https://www.codewars.com/kata/57ee31c5e77282c24d000024)
 - [The Office III - Broken Photocopier](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/broken.py) - [Link to CodeWars](https://www.codewars.com/kata/57ed56657b45ef922300002b)
 - [The Office IV - Find a Meeting Room](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/meeting.py) - [Link to CodeWars](https://www.codewars.com/kata/57f604a21bd4fe771b00009c)
+- [Cat and Mouse - Easy Version](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cat_mouse.py) - [Link to CodeWars](https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
