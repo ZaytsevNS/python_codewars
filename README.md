@@ -198,7 +198,7 @@
 - [The Office IV - Find a Meeting Room](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/meeting.py) - [Link to CodeWars](https://www.codewars.com/kata/57f604a21bd4fe771b00009c)
 - [Cat and Mouse - Easy Version](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cat_mouse.py) - [Link to CodeWars](https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
 - [The Office I - Outed](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/outed.py) - [Link to CodeWars](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
-- [The Office II - Boredom Score](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/boredom.py) - [Link to CodeWars](https://www.codewars.com/kata/the-office-ii-boredom-score)
+- [The Office II - Boredom Score](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/boredom.py) - [Link to CodeWars](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
