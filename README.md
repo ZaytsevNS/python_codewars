@@ -194,6 +194,7 @@
 - [Char Code Calculation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calc.py) - [Link to CodeWars](https://www.codewars.com/kata/57f75cc397d62fc93d000059)
 - [Max sum between two negatives](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_sum_between_two_negatives.py) - [Link to CodeWars](https://www.codewars.com/kata/6066ae080168ff0032c4107a)
 - [Paul's Misery](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/paul.py) - [Link to CodeWars](https://www.codewars.com/kata/57ee31c5e77282c24d000024)
+- [The Office III - Broken Photocopier](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/broken.py) - [Link to CodeWars](https://www.codewars.com/kata/57ed56657b45ef922300002b)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
