@@ -200,6 +200,7 @@
 - [The Office I - Outed](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/outed.py) - [Link to CodeWars](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
 - [The Office II - Boredom Score](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/boredom.py) - [Link to CodeWars](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)
 - [Switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/switcheroo.py) - [Link to CodeWars](https://www.codewars.com/kata/57f759bb664021a30300007d)
+- [Well of Ideas - Harder Version](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/well.py) - [Link to CodeWars](https://www.codewars.com/kata/57f22b0f1b5432ff09001cab)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
