@@ -102,6 +102,7 @@
 - [Template Strings](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/temple_strings.py) - [Link to CodeWars](https://www.codewars.com/kata/55a14f75ceda999ced000048)
 - [Generate range of integers](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/generate_range.py) - [Link to CodeWars](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 - [Price of Mangoes](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/mango.py) - [Link to CodeWars](https://www.codewars.com/kata/57a77726bb9944d000000b06)
+- [Do you speak "English"?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/sp_eng.py) - [Link to CodeWars](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
