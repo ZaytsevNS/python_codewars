@@ -204,6 +204,8 @@
 - [Well of Ideas - Harder Version](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/well.py) - [Link to CodeWars](https://www.codewars.com/kata/57f22b0f1b5432ff09001cab)
 - [Bumps in the Road](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/bumps.py) - [Link to CodeWars](https://www.codewars.com/kata/57ed30dde7728215300005fa)
 - [JavaScript Array Filter](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_even_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/514a6336889283a3d2000001)
+- [ScholarStem: Unit 6- Baby count!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_name.py)- [Link to CodeWars](https://www.codewars.com/kata/5702f077e55d30a7af000115)
+- [Greatest common divisor](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/mygcd.py) - [Link to CodeWars](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
