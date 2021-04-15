@@ -208,6 +208,7 @@
 - [ScholarStem: Unit 6- Baby count!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_name.py)- [Link to CodeWars](https://www.codewars.com/kata/5702f077e55d30a7af000115)
 - [Greatest common divisor](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/mygcd.py) - [Link to CodeWars](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
 - [Isograms](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_isogram.py) - [Link to CodeWars](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+- [Find the stray number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/stray.py) - [Link to CodeWars](https://www.codewars.com/kata/57f609022f4d534f05000024)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
