@@ -232,6 +232,7 @@
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 - [Moving Zeros To The End](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/move_zeros.py) - [Link to CodeWars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - [Perimeter of squares in a rectangle](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/perimeter.py) - [Link to CodeWars](https://www.codewars.com/kata/559a28007caad2ac4e000083)
+- [flatten()](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/flatten.py) - [Link to CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003)
 
 ### 4 kyu:
 - [...]
