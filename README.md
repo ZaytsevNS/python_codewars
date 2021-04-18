@@ -104,6 +104,7 @@
 - [Price of Mangoes](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/mango.py) - [Link to CodeWars](https://www.codewars.com/kata/57a77726bb9944d000000b06)
 - [Do you speak "English"?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/sp_eng.py) - [Link to CodeWars](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
 - [pick a set of first elements](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/first.py) - [Link to CodeWars](https://www.codewars.com/kata/572b77262bedd351e9000076)
+- [Will you make it?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/zero_fuel.py) - [Link to CodeWars](https://www.codewars.com/kata/5861d28f124b35723e00005e)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
