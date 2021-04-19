@@ -213,6 +213,7 @@
 - [All Star Code Challenge #22](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/to_time.py) - [Link to CodeWars](https://www.codewars.com/kata/5865cff66b5699883f0001aa)
 - [Mumbling](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/accum.py) - [Link to CodeWars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 - [Spraying trees](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/task.py) - [Link to CodeWars](https://www.codewars.com/kata/5981a139f5471fd1b2000071)
+- [Small enough? - Beginner](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/small_enough.py) - [Link to CodeWars](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
