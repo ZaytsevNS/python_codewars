@@ -216,6 +216,7 @@
 - [Small enough? - Beginner](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/small_enough.py) - [Link to CodeWars](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 - [Numbers to Letters](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/switcher.py) - [Link to CodeWars](https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c)
 - [Speed Control](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/gps.py) - [Link to CodeWars](https://www.codewars.com/kata/56484848ba95170a8000004d)
+- [Digitize](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/digitize.py) - [Link to CodeWars](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
