@@ -218,6 +218,7 @@
 - [Speed Control](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/gps.py) - [Link to CodeWars](https://www.codewars.com/kata/56484848ba95170a8000004d)
 - [Digitize](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/digitize.py) - [Link to CodeWars](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
 - [Alternate case](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/alternate_case.py) - [Link to CodeWars](https://www.codewars.com/kata/57a62154cf1fa5b25200031e)
+- [Word to binary](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/word_to_bin.py) - [Link to CodeWars](https://www.codewars.com/kata/59859f435f5d18ede7000050)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
