@@ -220,6 +220,7 @@
 - [Digitize](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/digitize.py) - [Link to CodeWars](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
 - [Alternate case](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/alternate_case.py) - [Link to CodeWars](https://www.codewars.com/kata/57a62154cf1fa5b25200031e)
 - [Word to binary](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/word_to_bin.py) - [Link to CodeWars](https://www.codewars.com/kata/59859f435f5d18ede7000050)
+- [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_developers.py) - [Link to CodeWars](https://www.codewars.com/kata/582746fa14b3892727000c4f)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
