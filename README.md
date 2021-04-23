@@ -223,6 +223,7 @@
 - [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_developers.py) - [Link to CodeWars](https://www.codewars.com/kata/582746fa14b3892727000c4f)
 - [Evens times last](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_last.py) - [Link to CodeWars](https://www.codewars.com/kata/5a1a9e5032b8b98477000004)
 - [Valid Spacing](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/valid_spacing.py) - [Link to CodeWars](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8)
+- [Thinking & Testing: A and B?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/testit.py) - [Link to CodeWars](https://www.codewars.com/kata/56d904db9963e9cf5000037d)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
