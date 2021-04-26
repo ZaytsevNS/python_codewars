@@ -228,6 +228,7 @@
 - [Moves in squared strings (I)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vert_and_hor_mirror.py) - [Link to CodeWars](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25)
 - [Hells Kitchen](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/gordon.py) - [Link to CodeWars](https://www.codewars.com/kata/57d1f36705c186d018000813)
 - [Move 10](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/move_ten.py) - [Link to CodeWars](https://www.codewars.com/kata/57cf50a7eca2603de0000090)
+- [Factorial](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_factorial.py) - [Link to CodeWars](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
