@@ -232,6 +232,7 @@
 - [Average Scores](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/average_scores.py) - [Link to CodeWars](https://www.codewars.com/kata/57b68bc7b69bfc8209000307)
 - [Basic Math (Add or Subtract)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calculating.py) - [Link to CodeWars](https://www.codewars.com/kata/5809b62808ad92e31b000031)
 - [Simple Fun #253: Cool String](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cool_string.py) - [Link to CodeWars](https://www.codewars.com/kata/590fd3220f05b4f1ad00007c)
+- [Find the vowels](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_indices.py) - [Link to CodeWars](https://www.codewars.com/kata/5680781b6b7c2be860000036)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
