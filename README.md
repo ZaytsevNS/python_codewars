@@ -108,6 +108,7 @@
 - [Geometry Basics: Distance between points in 2D](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/distance_between_points.py) - [Link to CodeWars](https://www.codewars.com/kata/58dced7b702b805b200000be)
 - [MakeUpperCase](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/make_upper_case.py) - [Link to CodeWars](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 - [Thinkful - Logic Drills: Traffic light](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/update_light.py) - [Link to CodeWars](https://www.codewars.com/kata/58649884a1659ed6cb000072)
+- [Powers of 2](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/powers_of_two.py) - [Link to CodeWars](https://www.codewars.com/kata/57a083a57cb1f31db7000028)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
