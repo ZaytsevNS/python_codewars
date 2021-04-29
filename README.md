@@ -254,6 +254,7 @@
 - [Is a number prime?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 - [Complete Fibonacci Series](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/fibonacci.py) - [Link to CodeWars](https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
 - [Counting Duplicates](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/duplicate_count.py) - [Link to CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [Array.diff](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/array_diff.py) - [Link to CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
