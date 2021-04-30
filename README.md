@@ -238,6 +238,8 @@
 - [Simple Fun #253: Cool String](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cool_string.py) - [Link to CodeWars](https://www.codewars.com/kata/590fd3220f05b4f1ad00007c)
 - [Find the vowels](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_indices.py) - [Link to CodeWars](https://www.codewars.com/kata/5680781b6b7c2be860000036)
 - [Not above the one!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/binary_cleaner.py) - [Link to CodeWars](https://www.codewars.com/kata/5b5097324a317afc740000fe)
+- [Calculate Two People's Individual Ages](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_ages.py) - [Link to CodeWars](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)
+- [Double Sort](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/db_sort.py) - [Link to CodeWars](https://www.codewars.com/kata/57cc79ec484cf991c900018d)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
