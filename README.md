@@ -242,6 +242,7 @@
 - [Double Sort](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/db_sort.py) - [Link to CodeWars](https://www.codewars.com/kata/57cc79ec484cf991c900018d)
 - [Retrieve array value by index with default](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solution_idx.py) - [Link to CodeWars](https://www.codewars.com/kata/515ceaebcc1dde8870000001)
 - [Refactored Greeting](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/person_greet.py) - [Link to CodeWars](https://www.codewars.com/kata/5121303128ef4b495f000001)
+- [Person Class Bug](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/person_class_bug.py) - [Link to CodeWars](https://www.codewars.com/kata/513f887e484edf3eb3000001)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
