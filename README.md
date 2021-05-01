@@ -240,6 +240,7 @@
 - [Not above the one!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/binary_cleaner.py) - [Link to CodeWars](https://www.codewars.com/kata/5b5097324a317afc740000fe)
 - [Calculate Two People's Individual Ages](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_ages.py) - [Link to CodeWars](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1)
 - [Double Sort](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/db_sort.py) - [Link to CodeWars](https://www.codewars.com/kata/57cc79ec484cf991c900018d)
+- [Retrieve array value by index with default](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solution_idx.py) - [Link to CodeWars](https://www.codewars.com/kata/515ceaebcc1dde8870000001)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
