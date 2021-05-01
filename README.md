@@ -244,6 +244,7 @@
 - [Refactored Greeting](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/person_greet.py) - [Link to CodeWars](https://www.codewars.com/kata/5121303128ef4b495f000001)
 - [Person Class Bug](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/person_class_bug.py) - [Link to CodeWars](https://www.codewars.com/kata/513f887e484edf3eb3000001)
 - [Summing a number's digits](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_digits.py) - [Link to CodeWars](https://www.codewars.com/kata/52f3149496de55aded000410)
+- [Find the capitals](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/capitals.py) - [Link to CodeWars](https://www.codewars.com/kata/539ee3b6757843632d00026b)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
