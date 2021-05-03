@@ -248,6 +248,7 @@
 - [Check for prime numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_prime.py) - [Link to CodeWars](https://www.codewars.com/kata/53daa9e5af55c184db00025f)
 - [Remove Duplicates](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/unique.py) - [Link to CodeWars](https://www.codewars.com/kata/53e30ec0116393fe1a00060b)
 - [Sum of all arguments](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_of_all_arguments.py) - [Link to CodeWars](https://www.codewars.com/kata/540c33513b6532cd58000259)
+- [Reverse the bits in an integer](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_bits.py) - [Link to CodeWars](https://www.codewars.com/kata/5959ec605595565f5c00002b)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
