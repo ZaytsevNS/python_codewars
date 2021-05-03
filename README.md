@@ -267,6 +267,7 @@
 - [Complete Fibonacci Series](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/fibonacci.py) - [Link to CodeWars](https://www.codewars.com/kata/5239f06d20eeab9deb00049b)
 - [Counting Duplicates](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/duplicate_count.py) - [Link to CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 - [Array.diff](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/array_diff.py) - [Link to CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009)
+- [Sum of all numbers with the same digits (performance edition)](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sum_arrangements.py) - [Link to CodeWars](https://www.codewars.com/kata/5eb9a92898f59000184c8e34)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
