@@ -251,6 +251,7 @@
 - [Sum of all arguments](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_of_all_arguments.py) - [Link to CodeWars](https://www.codewars.com/kata/540c33513b6532cd58000259)
 - [Reverse the bits in an integer](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/reverse_bits.py) - [Link to CodeWars](https://www.codewars.com/kata/5959ec605595565f5c00002b)
 - [Simple remove duplicates](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solve_remove_duplicates.py) - [Link to CodeWars](https://www.codewars.com/kata/5ba38ba180824a86850000f7)
+- [Find the Capitals](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_the_capitals.py) - [Link to CodeWars](https://www.codewars.com/kata/53573877d5493b4d6e00050c)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
