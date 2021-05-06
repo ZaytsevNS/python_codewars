@@ -254,6 +254,7 @@
 - [Find the Capitals](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_the_capitals.py) - [Link to CodeWars](https://www.codewars.com/kata/53573877d5493b4d6e00050c)
 - [esrever esreveR!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/esrever.py) - [Link to CodeWars](https://www.codewars.com/kata/57e0206335e198f82b00001d)
 - [Sum of Triangular Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_triangular_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/580878d5d27b84b64c000b51)
+- [Sort arrays - 1](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sortme.py) - [Link to CodeWars](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
