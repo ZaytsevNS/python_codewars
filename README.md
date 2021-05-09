@@ -258,6 +258,7 @@
 - [Sort arrays - 1](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sortme.py) - [Link to CodeWars](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
 - [Move all vowels](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/move_vowels.py) - [Link to CodeWars](https://www.codewars.com/kata/56bf3287b5106eb10f000899)
 - [Order of weight](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/arrange.py) - [Link to CodeWars](https://www.codewars.com/kata/59ff4709ba2a14501500003a)
+- [Invisible cubes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/not_visible_cubes.py) - [Link to CodeWars](https://www.codewars.com/kata/560d6ebe7a8c737c52000084)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
