@@ -260,6 +260,7 @@
 - [Order of weight](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/arrange.py) - [Link to CodeWars](https://www.codewars.com/kata/59ff4709ba2a14501500003a)
 - [Invisible cubes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/not_visible_cubes.py) - [Link to CodeWars](https://www.codewars.com/kata/560d6ebe7a8c737c52000084)
 - [shorter concat [reverse longer]](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/shorter_reverse_longer.py) - [Link to CodeWars](https://www.codewars.com/kata/54557d61126a00423b000a45)
+- [Get the Middle Character](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_middle.py) - [Link to CodeWars](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
