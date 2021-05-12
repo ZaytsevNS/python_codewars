@@ -289,6 +289,7 @@
 - [Smallest Permutation](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/min_permutation.py) - [Link to CodeWars](https://www.codewars.com/kata/5fefee21b64cc2000dbfa875)
 - [Take a Ten Minute Walk](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_valid_walk.py) - [Link to CodeWars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 - [Hanoi record](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/hanoi.py) - [Link to CodeWars](https://www.codewars.com/kata/534eb5ad704a49dcfa000ba6)
+- [Break camelCase](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/break_camel_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5208f99aee097e6552000148)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
