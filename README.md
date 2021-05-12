@@ -285,6 +285,7 @@
 - [Sum of all numbers with the same digits (performance edition)](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sum_arrangements.py) - [Link to CodeWars](https://www.codewars.com/kata/5eb9a92898f59000184c8e34)
 - [Smallest Permutation](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/min_permutation.py) - [Link to CodeWars](https://www.codewars.com/kata/5fefee21b64cc2000dbfa875)
 - [Take a Ten Minute Walk](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_valid_walk.py) - [Link to CodeWars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- [Hanoi record](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/hanoi.py) - [Link to CodeWars](https://www.codewars.com/kata/534eb5ad704a49dcfa000ba6)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
