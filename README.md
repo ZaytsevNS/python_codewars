@@ -264,6 +264,7 @@
 - [Two to One](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/longest.py) - [Link to CodeWars](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 - [Sum of odd numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/row_sum_odd_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 - [Categorize New Member](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/open_or_senior.py) - [Link to CodeWars](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
+- [Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_same_language.py) - [Link to CodeWars](https://www.codewars.com/kata/58287977ef8d4451f90001a0)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
