@@ -267,6 +267,7 @@
 - [Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_same_language.py) - [Link to CodeWars](https://www.codewars.com/kata/58287977ef8d4451f90001a0)
 - [Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_admin.py) - [Link to CodeWars](https://www.codewars.com/kata/582dace555a1f4d859000058)
 - [Coding Meetup #14 - Higher-Order Functions Series - Order the food](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/order_food.py) - [Link to CodeWars](https://www.codewars.com/kata/583952fbc23341c7180002fd)
+- [Thinking & Testing : Retention and discard II](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/mystery.py) - [Link to CodeWars](https://www.codewars.com/kata/56eee006ff32e1b5b0000c32)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
