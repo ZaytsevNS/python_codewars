@@ -112,6 +112,7 @@
 - [Filter out the geese](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/goose_filter.py) - [Link to CodeWars](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
 - [Opposites Attract](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/lovefunc.py) - [Link to CodeWars](https://www.codewars.com/kata/555086d53eac039a2a000083)
 - [What's the real floor?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/get_real_floor.py) - [Link to CodeWars](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
+- [Is it a number?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/isDigit.py) - [Link to CodeWars](https://www.codewars.com/kata/57126304cdbf63c6770012bd)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
