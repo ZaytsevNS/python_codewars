@@ -272,6 +272,7 @@
 - [BAD Hash - String to Int](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/string_hash.py) - [Link to CodeWars](https://www.codewars.com/kata/596d93bd9b6a5df4de000049)
 - [New season, new league](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/premier_league_standings.py) - [Link to CodeWars](https://www.codewars.com/kata/58de08d376f875dbb40000f1)
 - [Case-sensitive!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/case_sensitive.py) - [Link to CodeWars](https://www.codewars.com/kata/5a805631ba1bb55b0c0000b8)
+- [Difference between two collections](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/diff.py) - [Link to CodeWars](https://www.codewars.com/kata/594093784aafb857f0000122)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
