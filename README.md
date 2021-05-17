@@ -277,6 +277,7 @@
 - [Multiply array values and filter non-numeric](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/multiply_and_filter.py) - [Link to CodeWars](https://www.codewars.com/kata/55ed875819ae85ca8b00005c)
 - [Width-Height Ratio](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calculate_ratio.py) - [Link to CodeWars](https://www.codewars.com/kata/55486cb94c9d3251560000ff)
 - [Check if a triangle is an equable triangle!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/equable_triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/57d0089e05c186ccb600035e)
+- [Find the area of the rectangle!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/area_rectangle.py) - [Link to CodeWars](https://www.codewars.com/kata/580a0347430590220e000091)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
