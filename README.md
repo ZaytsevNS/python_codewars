@@ -280,6 +280,7 @@
 - [Find the area of the rectangle!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/area_rectangle.py) - [Link to CodeWars](https://www.codewars.com/kata/580a0347430590220e000091)
 - [Find the next perfect square!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_next_square.py) - [Link to CodeWars](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
 - [Testing 1-2-3](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/line_numbering.py) - [Link to CodeWars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+- [Sum of a sequence](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sequence_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/586f6741c66d18c22800010a)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
