@@ -282,6 +282,7 @@
 - [Testing 1-2-3](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/line_numbering.py) - [Link to CodeWars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 - [Sum of a sequence](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sequence_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/586f6741c66d18c22800010a)
 - [Sum of all the multiples of 3 or 5](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
+- [Find the middle element](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/gimme.py) - [Link to CodeWars](https://www.codewars.com/kata/545a4c5a61aa4c6916000755)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
