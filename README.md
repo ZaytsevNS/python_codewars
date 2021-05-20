@@ -284,6 +284,7 @@
 - [Sum of all the multiples of 3 or 5](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
 - [Find the middle element](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/gimme.py) - [Link to CodeWars](https://www.codewars.com/kata/545a4c5a61aa4c6916000755)
 - [Sort array by string length](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sort_by_length.py) - [Link to CodeWars](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
+- [Factorial](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_factorial.py) - [Link to CodeWars](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
