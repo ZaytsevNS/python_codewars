@@ -310,6 +310,7 @@
 - [Break camelCase](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/break_camel_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5208f99aee097e6552000148)
 - [Multiples of 3 or 5](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/solution_multiples.py) - [Link to CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
 - [Replace With Alphabet Position](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/alphabet_position.py) - [Link to CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+- [Convert string to camel case](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/to_camel_case.py) - [Link to CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
