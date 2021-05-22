@@ -286,6 +286,7 @@
 - [Sort array by string length](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sort_by_length.py) - [Link to CodeWars](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 - [Factorial](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_factorial.py) - [Link to CodeWars](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc)
 - [Alternate capitalization](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/capitalize.py) - [Link to CodeWars](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
+- [Remove duplicate words](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_duplicate_words.py) - [Link to CodeWars](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
