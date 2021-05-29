@@ -288,6 +288,7 @@
 - [Alternate capitalization](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/capitalize.py) - [Link to CodeWars](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 - [Remove duplicate words](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_duplicate_words.py) - [Link to CodeWars](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
 - [Anagram Detection](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_anagram.py) - [Link to CodeWars](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
+- [Sum of Minimums!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_of_minimums.py) - [Link to CodeWars](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
