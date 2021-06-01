@@ -293,6 +293,7 @@
 - [Sum of numbers from 0 to N](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/show_sequence.py) - [Link to CodeWars](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
 - [Even numbers in an array](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_numbers.py) - [Link to CodeWars](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)
 - [Product Of Maximums Of Array (Array Series #2)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_product.py) - [Link to CodeWars](https://www.codewars.com/kata/5a63948acadebff56f000018)
+- [Check three and two](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/check_three_and_two.py) - [Link to CodeWars](https://www.codewars.com/kata/5a9e86705ee396d6be000091)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
