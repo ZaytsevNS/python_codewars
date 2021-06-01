@@ -295,6 +295,7 @@
 - [Product Of Maximums Of Array (Array Series #2)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_product.py) - [Link to CodeWars](https://www.codewars.com/kata/5a63948acadebff56f000018)
 - [Check three and two](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/check_three_and_two.py) - [Link to CodeWars](https://www.codewars.com/kata/5a9e86705ee396d6be000091)
 - [Smallest value of an array](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_smallest.py) - [Link to CodeWars](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
+- [Convert an array of strings to array of numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/to_float_array.py) - [Link to CodeWars](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
