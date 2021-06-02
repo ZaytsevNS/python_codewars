@@ -324,6 +324,7 @@
 - [Convert string to camel case](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/to_camel_case.py) - [Link to CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 - [Find the missing letter](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_missing_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
 - [Find the missing term in an Arithmetic Progression](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_missing.py) - [Link to CodeWars](https://www.codewars.com/kata/52de553ebb55d1fca3000371)
+- [Irreducible Sum of Rationals](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sum_fracts.py) - [Link to CodeWars](https://www.codewars.com/kata/5517fcb0236c8826940003c9)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
