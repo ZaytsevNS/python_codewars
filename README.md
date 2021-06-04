@@ -297,6 +297,7 @@
 - [Smallest value of an array](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_smallest.py) - [Link to CodeWars](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
 - [Convert an array of strings to array of numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/to_float_array.py) - [Link to CodeWars](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 - [All Star Code Challenge #1](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_ppg.py) - [Link to CodeWars](https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
+- [Sort the Vowels!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sort_vowels.py) - [Link to CodeWars](https://www.codewars.com/kata/59e49b2afc3c494d5d00002a)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
