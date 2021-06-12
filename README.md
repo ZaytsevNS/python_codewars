@@ -301,6 +301,7 @@
 - [Sum of Odd Cubed Numbers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cube_odd.py) - [Link to CodeWars](https://www.codewars.com/kata/580dda86c40fa6c45f00028a)
 - [I'm everywhere!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/applize.py) - [Link to CodeWars](https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98)
 - [Find the Squares](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/find_squares.py) - [Link to CodeWars](https://www.codewars.com/kata/60908bc1d5811f0025474291)
+- [All Star Code Challenge #20](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add_arrays.py) - [Link to CodeWars](https://www.codewars.com/kata/5865a75da5f19147370000c7)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
