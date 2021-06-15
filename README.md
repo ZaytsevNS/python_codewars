@@ -336,6 +336,7 @@
 - [Two Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/two_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 - [Find The Parity Outlier](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_outlier.py) - [Link to CodeWars](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Stop gninnipS My sdroW!](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/spin_words.py) - [Link to CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001)
+- [Dubstep](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/song_decoder.py) - [Link to CodeWars](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
