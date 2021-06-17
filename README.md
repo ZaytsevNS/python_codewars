@@ -304,6 +304,7 @@
 - [All Star Code Challenge #20](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add_arrays.py) - [Link to CodeWars](https://www.codewars.com/kata/5865a75da5f19147370000c7)
 - [Presents](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/presents.py) - [Link to CodeWars](https://www.codewars.com/kata/598d6fd5b383eda05c000046)
 - [Triangle area.](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/t_area.py) - [Link to CodeWars](https://www.codewars.com/kata/59bd84b8a0640e7c49002398)
+- [Over The Road](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/over_the_road.py) - [Link to CodeWars](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
