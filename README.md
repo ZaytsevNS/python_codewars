@@ -339,6 +339,7 @@
 - [Dubstep](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/song_decoder.py) - [Link to CodeWars](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 - [Split Strings](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/split_strings.py) - [Link to CodeWars](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 - [Count the smiley faces!](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/count_smileys.py) - [Link to CodeWars](https://www.codewars.com/kata/583203e6eb35d7980400002a)
+- [Format a string of names like 'Bart, Lisa & Maggie'.](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/namelist.py) - [Link to CodeWars](https://www.codewars.com/kata/53368a47e38700bd8300030d)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
