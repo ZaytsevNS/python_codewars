@@ -343,6 +343,7 @@
 - [Format a string of names like 'Bart, Lisa & Maggie'.](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/namelist.py) - [Link to CodeWars](https://www.codewars.com/kata/53368a47e38700bd8300030d)
 - [Count characters in your string](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/count_characters.py) - [Link to CodeWars](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
 - [Valid Phone Number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/valid_phone_number.py) - [Link to CodeWars](https://www.codewars.com/kata/525f47c79f2f25a4db000025)
+- [Multiplication table](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/multiplication_table.py) - [Link to CodeWars](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
