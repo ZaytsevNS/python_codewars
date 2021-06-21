@@ -352,6 +352,7 @@
 - [flatten()](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/flatten.py) - [Link to CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003)
 - [Where my anagrams at?](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/anagrams.py) - [Link to CodeWars](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 - [The Hashtag Generator](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/generate_hashtag.py) - [Link to CodeWars](https://www.codewars.com/kata/52449b062fb80683ec000024)
+- [Extract the domain name from a URL](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/domain_name.py) - [Link to CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 
 ### 4 kyu:
 - [...]
