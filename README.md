@@ -356,6 +356,7 @@
 
 ### 4 kyu:
 - [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+- [Next bigger number with the same digits](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/next_bigger.py) - [Link to CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e)
 
 ### 3 kyu:
 - [...]
