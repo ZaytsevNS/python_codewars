@@ -355,7 +355,7 @@
 - [Extract the domain name from a URL](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/domain_name.py) - [Link to CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 
 ### 4 kyu:
-- [...]
+- [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 
 ### 3 kyu:
 - [...]
