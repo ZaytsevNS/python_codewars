@@ -113,6 +113,8 @@
 - [Opposites Attract](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/lovefunc.py) - [Link to CodeWars](https://www.codewars.com/kata/555086d53eac039a2a000083)
 - [What's the real floor?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/get_real_floor.py) - [Link to CodeWars](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
 - [Is it a number?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/isDigit.py) - [Link to CodeWars](https://www.codewars.com/kata/57126304cdbf63c6770012bd)
+- [Compare within margin](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/close_compare.py) - [Link to CodeWars](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
+- [To square(root) or not to square(root)](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/square_or_square_root.py) - [Link to CodeWars](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
@@ -305,7 +307,6 @@
 - [Presents](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/presents.py) - [Link to CodeWars](https://www.codewars.com/kata/598d6fd5b383eda05c000046)
 - [Triangle area.](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/t_area.py) - [Link to CodeWars](https://www.codewars.com/kata/59bd84b8a0640e7c49002398)
 - [Over The Road](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/over_the_road.py) - [Link to CodeWars](https://www.codewars.com/kata/5f0ed36164f2bc00283aed07)
-- [Compare within margin](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/close_compare.py) - [Link to CodeWars](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
 - [Which triangle is that?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/type_of_triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/564d398e2ecf66cec00000a9)
 
 ### 6 kyu:
