@@ -349,6 +349,7 @@
 - [Valid Phone Number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/valid_phone_number.py) - [Link to CodeWars](https://www.codewars.com/kata/525f47c79f2f25a4db000025)
 - [Multiplication table](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/multiplication_table.py) - [Link to CodeWars](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [Highest Scoring Word](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/high.py) - [Link to CodeWars](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+- [WeIrD StRiNg CaSe](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/to_weird_case.py) - [Link to CodeWars](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
