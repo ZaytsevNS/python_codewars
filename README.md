@@ -352,6 +352,7 @@
 - [WeIrD StRiNg CaSe](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/to_weird_case.py) - [Link to CodeWars](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 - [Title Case](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/title_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5202ef17a402dd033c000009)
 - [Pascal's Triangle](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/pascals_triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/5226eb40316b56c8d500030f)
+- [Duplicate Encoder](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/duplicate_encode.py) - [Link to CodeWars](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
