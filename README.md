@@ -356,6 +356,7 @@
 - [Detect Pangram](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_pangram.py) - [Link to CodeWars](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 - [The Vowel Code](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/vowel_code.py) - [Link to CodeWars](https://www.codewars.com/kata/53697be005f803751e0015aa)
 - [Matrix Addition](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/matrix_addition.py) - [Link to CodeWars](https://www.codewars.com/kata/526233aefd4764272800036f)
+- [Pascal's Triangle #2](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/pascal.py) - [Link to CodeWars](https://www.codewars.com/kata/52945ce49bb38560fe0001d9)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
