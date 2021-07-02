@@ -359,6 +359,7 @@
 - [Pascal's Triangle #2](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/pascal.py) - [Link to CodeWars](https://www.codewars.com/kata/52945ce49bb38560fe0001d9)
 - [Sort Arrays (Ignoring Case)](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sortme.py) - [Link to CodeWars](https://www.codewars.com/kata/51f41fe7e8f176e70d0002b9)
 - [Highest Rank Number in an Array](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/highest_rank.py) - [Link to CodeWars](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)
+- [Multiplication Tables](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/mul_table.py) - [Link to CodeWars](https://www.codewars.com/kata/5432fd1c913a65b28f000342)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
