@@ -373,8 +373,8 @@
 - [Convert PascalCase string into snake_case](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/to_underscore.py) - [Link to CodeWars](https://www.codewars.com/kata/529b418d533b76924600085d)
 
 ### 4 kyu:
-- [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permatutions/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permatutions/test.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
-- [Next bigger number with the same digits](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/next_bigger/next_bigger.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/next_bigger/test.py) - [Link to CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e)
+- [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/test.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+- [Next bigger number with the same digits](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/next_bigger/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/next_bigger/test.py) - [Link to CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e)
 
 ### 3 kyu:
 - [...]
