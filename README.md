@@ -370,6 +370,7 @@
 - [The Hashtag Generator](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/generate_hashtag.py) - [Link to CodeWars](https://www.codewars.com/kata/52449b062fb80683ec000024)
 - [Extract the domain name from a URL](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/domain_name.py) - [Link to CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 - [First non-repeating character](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/first_non_repeating_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+- [Convert PascalCase string into snake_case](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/to_underscore.py) - [Link to CodeWars](https://www.codewars.com/kata/529b418d533b76924600085d)
 
 ### 4 kyu:
 - [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
