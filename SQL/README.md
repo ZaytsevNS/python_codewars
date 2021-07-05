@@ -10,6 +10,7 @@
 - [Even or Odd](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/even_or_odd.sql) - [Link to CodeWars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 - [Returning Strings](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/returning_strings.sql) - [Link to CodeWars](https://www.codewars.com/kata/55a70521798b14d4750000a4)
 - [Grasshopper - Messi goals function](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/grasshopper_messi_goals_function.sql) - [Link to CodeWars](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
+- [Adults only (SQL for Beginners #1)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/adults_only_(SQL_for_beginners_%231).sql) - [Link to CodeWars](https://www.codewars.com/kata/590a95eede09f87472000213)
 
 ### 7 kyu:
 - [...]
