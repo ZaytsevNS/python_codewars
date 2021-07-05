@@ -12,6 +12,12 @@
 - [Grasshopper - Messi goals function](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/grasshopper_messi_goals_function.sql) - [Link to CodeWars](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
 - [Adults only (SQL for Beginners #1)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/adults_only.sql) - [Link to CodeWars](https://www.codewars.com/kata/590a95eede09f87472000213)
 - [On the Canadian Border (SQL for Beginners #2)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/on_the_canadian_border.sql) - [Link to CodeWars](https://www.codewars.com/kata/590ba881fe13cfdcc20001b4)
+- [SQL Basics: Simple WHERE and ORDER BY](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/simple_where_and_order_by.sql) - [Link to CodeWars](https://www.codewars.com/kata/5809508cc47d327c12000084)
+- [SQL Basics: Simple DISTINCT](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/simple_distinct.sql) - [Link to CodeWars](https://www.codewars.com/kata/58111670e10b53be31000108)
+- [Collect Tuition (SQL for Beginners #4)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/collect_tuition.sql) - [Link to CodeWars](https://www.codewars.com/kata/5910b0d378cc2ba91400000b)
+- [SQL Basics: Simple SUM](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/simple_sum.sql) - [Link to CodeWars](https://www.codewars.com/kata/58110da0009b4f7ef80000ad)
+- [SQL Basics: Simple MIN / MAX](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/simple_min_max.sql) - [Link to CodeWars](https://www.codewars.com/kata/581113dce10b531b1d0000bd)
+- [SQL Grasshopper: Select Columns](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/select_columns.sql) - [Link to CodeWars](https://www.codewars.com/kata/582365c18917435ab3000020)
 
 ### 7 kyu:
 - [...]
