@@ -3,10 +3,10 @@
 
 **Navigation:**
 
-[8KYU](https://github.com/ZaytsevNS/python_codewars#8-kyu) | [7KYU](https://github.com/ZaytsevNS/python_codewars#7-kyu) | [6KYU](https://github.com/ZaytsevNS/python_codewars#6-kyu) | [5KYU](https://github.com/ZaytsevNS/python_codewars#5-kyu) | [4KYU](https://github.com/ZaytsevNS/python_codewars#4-kyu) | [3KYU](https://github.com/ZaytsevNS/python_codewars#3-kyu) | [2KYU](https://github.com/ZaytsevNS/python_codewars#2-kyu) | [1KYU](https://github.com/ZaytsevNS/python_codewars#1-kyu) | [Info for Codewarriors](https://github.com/ZaytsevNS/python_codewars#info-for-codewarriors)
+[8KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#8-kyu) | [7KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#7-kyu) | [6KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#6-kyu) | [5KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#5-kyu) | [4KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#4-kyu) | [3KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#3-kyu) | [2KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#2-kyu) | [1KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#1-kyu) | [Info for Codewarriors](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#info-for-codewarriors)
 
 ### 8 kyu:
-- [My head is at the wrong end!](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/fix_the_meerkat.py) - [Link to CodeWars](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
+- [..]() - [Link to CodeWars]()
 
 ### 7 kyu:
 - [...]
