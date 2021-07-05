@@ -6,7 +6,7 @@
 [8KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#8-kyu) | [7KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#7-kyu) | [6KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#6-kyu) | [5KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#5-kyu) | [4KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#4-kyu) | [3KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#3-kyu) | [2KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#2-kyu) | [1KYU](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#1-kyu) | [Info for Codewarriors](https://github.com/ZaytsevNS/python_codewars/tree/main/SQL#info-for-codewarriors)
 
 ### 8 kyu:
-- [..]() - [Link to CodeWars]()
+- [Opposite number](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/opposite_number.sql) - [Link to CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 
 ### 7 kyu:
 - [...]
