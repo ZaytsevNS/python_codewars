@@ -8,6 +8,7 @@
 ### 8 kyu:
 - [Opposite number](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/opposite_number.sql) - [Link to CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 - [Even or Odd](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/even_or_odd.sql) - [Link to CodeWars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+- [Returning Strings](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/returning_strings.sql) - [Link to CodeWars](https://www.codewars.com/kata/55a70521798b14d4750000a4)
 
 ### 7 kyu:
 - [...]
