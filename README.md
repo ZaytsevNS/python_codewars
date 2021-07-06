@@ -366,7 +366,7 @@
 - [Moving Zeros To The End](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/move_zeros.py) - [Link to CodeWars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - [Perimeter of squares in a rectangle](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/perimeter.py) - [Link to CodeWars](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 - [flatten()](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/flatten.py) - [Link to CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003)
-- [Where my anagrams at?](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/anagrams.py) - [Link to CodeWars](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+- [Where my anagrams at?](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/anagrams/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/anagrams/test.py) - [Link to CodeWars](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 - [The Hashtag Generator](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/generate_hashtag.py) - [Link to CodeWars](https://www.codewars.com/kata/52449b062fb80683ec000024)
 - [Extract the domain name from a URL](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/domain_name.py) - [Link to CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 - [First non-repeating character](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/first_non_repeating_letter.py) - [Link to CodeWars](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
