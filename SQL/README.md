@@ -30,6 +30,7 @@
 - [Hello SQL World!](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/hello_sql_world.sql) - [Link to CodeWars](https://www.codewars.com/kata/581283eb0a5fb13e06000020)
 - [BASICS: Length based SELECT with LIKE](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/length_based_select_with_like.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198)
 - [Easy SQL: Bit Length](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/bit_length.sql) - [Link to CodeWars](https://www.codewars.com/kata/594900e16fd782a607000059)
+- [SQL Basics: Maths with String Manipulations](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/maths_with_string_manipulations.sql) - [Link to CodeWars](https://www.codewars.com/kata/594901ba44645fd7bd00005f)
 
 ### 6 kyu:
 - [...]
