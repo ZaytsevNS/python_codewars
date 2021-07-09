@@ -24,6 +24,7 @@
 - [Best-Selling Books (SQL for Beginners #5)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/best_selling_books.sql) - [Link to CodeWars](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
 - [SQL Basics: Simple JOIN](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_join.sql) - [Link to CodeWars](https://www.codewars.com/kata/5802e32dd8c944e562000020)
 - [SQL Basics: Simple JOIN with COUNT](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_join_with_count.sql) - [Link to CodeWars](https://www.codewars.com/kata/580918e24a85b05ad000010c)
+- [Easy SQL: Counting and Grouping](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/counting_and_grouping.sql) - [Link to CodeWars](https://www.codewars.com/kata/594633020a561e329a0000a2)
 
 ### 6 kyu:
 - [...]
