@@ -25,6 +25,7 @@
 - [SQL Basics: Simple JOIN](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_join.sql) - [Link to CodeWars](https://www.codewars.com/kata/5802e32dd8c944e562000020)
 - [SQL Basics: Simple JOIN with COUNT](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_join_with_count.sql) - [Link to CodeWars](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 - [Easy SQL: Counting and Grouping](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/counting_and_grouping.sql) - [Link to CodeWars](https://www.codewars.com/kata/594633020a561e329a0000a2)
+- [SQL: Concatenating Columns](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/concatenating_columns.sql) - [Link to CodeWars](https://www.codewars.com/kata/59440034e94fae05b2000073)
 
 ### 6 kyu:
 - [...]
