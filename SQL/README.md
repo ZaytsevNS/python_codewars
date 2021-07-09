@@ -28,6 +28,7 @@
 - [SQL: Concatenating Columns](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/concatenating_columns.sql) - [Link to CodeWars](https://www.codewars.com/kata/59440034e94fae05b2000073)
 - [SQL Basics: Raise to the Power](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/raise_to_the_power.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a8f653b5b4e8f3d000035)
 - [Hello SQL World!](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/hello_sql_world.sql) - [Link to CodeWars](https://www.codewars.com/kata/581283eb0a5fb13e06000020)
+- [BASICS: Length based SELECT with LIKE](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/length_based_select_with_like.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8d94d3ba1bb569e5000198)
 
 ### 6 kyu:
 - [...]
