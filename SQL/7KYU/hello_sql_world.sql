@@ -1,1 +1,1 @@
-SELECT 'hello world' AS greeting
+SELECT 'hello world!' AS "Greeting"
