@@ -22,6 +22,7 @@
 ### 7 kyu:
 - [SQL Basics: Simple GROUP BY](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_group_by.sql) - [Link to CodeWars](https://www.codewars.com/kata/58111f4ee10b5301a7000175)
 - [Best-Selling Books (SQL for Beginners #5)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/best_selling_books.sql) - [Link to CodeWars](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
+- [SQL Basics: Simple JOIN](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_join.sql) - [Link to CodeWars](https://www.codewars.com/kata/5802e32dd8c944e562000020)
 
 ### 6 kyu:
 - [...]
