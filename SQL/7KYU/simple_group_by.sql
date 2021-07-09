@@ -1,1 +1,1 @@
-SELECT SUM(age) AS age_sum FROM people
+SELECT COUNT(age) AS people_count, age FROM people GROUP BY age
