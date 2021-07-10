@@ -33,6 +33,7 @@
 - [SQL Basics: Maths with String Manipulations](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/maths_with_string_manipulations.sql) - [Link to CodeWars](https://www.codewars.com/kata/594901ba44645fd7bd00005f)
 - [SQL Basics: Up and Down](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/up_and_down.sql) - [Link to CodeWars](https://www.codewars.com/kata/595a3ba3843b0cbf8e000004)
 - [GROCERY STORE: Inventory](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/inventory.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8eb3fb57c562110f0000a1)
+- [GROCERY STORE: Support Local Products](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/support_local_products.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8ed96bfd8c066e7f00011a)
 
 ### 6 kyu:
 - [...]
