@@ -42,6 +42,7 @@
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
 - [SQL Basics: Simple EXISTS](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_exists.sql) - [Link to CodeWars](https://www.codewars.com/kata/58113a64e10b53ec36000293)
 - [SQL Basics: Simple IN](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_in.sql) - [Link to CodeWars](https://www.codewars.com/kata/58113c03009b4fcc66000d29)
+- [SQL Basics: Simple UNION ALL](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_union_all.sql) - [Link to CodeWars](https://www.codewars.com/kata/58112f8004adbbdb500004fe)
 
 ### 5 kyu:
 - [...]
