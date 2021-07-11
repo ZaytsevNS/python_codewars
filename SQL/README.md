@@ -40,6 +40,7 @@
 
 ### 6 kyu:
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
+- [SQL Basics: Simple EXISTS](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_exists.sql) - [Link to CodeWars](https://www.codewars.com/kata/58113a64e10b53ec36000293)
 
 ### 5 kyu:
 - [...]
