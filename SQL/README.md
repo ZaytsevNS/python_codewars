@@ -44,6 +44,7 @@
 - [SQL Basics: Simple IN](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_in.sql) - [Link to CodeWars](https://www.codewars.com/kata/58113c03009b4fcc66000d29)
 - [SQL Basics: Simple UNION ALL](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_union_all.sql) - [Link to CodeWars](https://www.codewars.com/kata/58112f8004adbbdb500004fe)
 - [SQL Basics: Simple JOIN and RANK](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_join_and_rank.sql) - [Link to CodeWars](https://www.codewars.com/kata/58094559c47d323ebd000035)
+- [SQL Basics: Top 10 customers by total payments amount](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/top_10_customers_by_total_payments_amount.sql) - [Link to CodeWars](https://www.codewars.com/kata/580d08b5c049aef8f900007c)
 
 ### 5 kyu:
 - [...]
