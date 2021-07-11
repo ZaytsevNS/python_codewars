@@ -39,7 +39,7 @@
 - [SQL Basics: Truncating](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/truncating.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a8fa5a2db9e5f290000c3)
 
 ### 6 kyu:
-- [...]
+- [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
 
 ### 5 kyu:
 - [...]
