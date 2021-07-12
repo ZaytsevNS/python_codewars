@@ -310,6 +310,7 @@
 - [Which triangle is that?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/type_of_triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/564d398e2ecf66cec00000a9)
 - [[Code Golf] A Triangle?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/triangle.py) - [Link to CodeWars](https://www.codewars.com/kata/60d20fe1820f1b004188ceed)
 - [Middle Me](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/middle_me.py) - [Link to CodeWars](https://www.codewars.com/kata/59cd155d1a68b70f8e000117)
+- [Club Doorman](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/pass_the_door_man.py) - [Link to CodeWars](https://www.codewars.com/kata/5c563cb78dac1951c2d60f01)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
