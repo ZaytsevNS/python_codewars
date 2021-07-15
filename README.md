@@ -374,6 +374,7 @@
 - [Extract the domain name from a URL](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/domain_name/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/domain_name/test.py) - [Link to CodeWars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 - [First non-repeating character](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/first_non_repeating_letter/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/first_non_repeating_letter/test.py) - [Link to CodeWars](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 - [Convert PascalCase string into snake_case](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/to_underscore/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/to_underscore/test.py) - [Link to CodeWars](https://www.codewars.com/kata/529b418d533b76924600085d)
+- [Simple Pig Latin](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/pig_it/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/pig_it/test.py) - [Link to CodeWars](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 
 ### 4 kyu:
 - [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/test.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
