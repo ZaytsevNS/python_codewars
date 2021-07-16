@@ -37,6 +37,7 @@
 - [Easy SQL: Cube Root and Natural Log](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/cube_root_and_natural_log.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a6ad320ac16a54400007f)
 - [Easy SQL: Absolute Value and Log to Base](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/absolute_value_and_log_to_base.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a8f2f7ca3c692a4000041)
 - [SQL Basics: Truncating](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/truncating.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a8fa5a2db9e5f290000c3)
+- [SQL Basics - Trimming the Field](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/trimming_the_field.sql) - [Link to CodeWars](https://www.codewars.com/kata/59401c25c15cbeb58d000028)
 
 ### 6 kyu:
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
