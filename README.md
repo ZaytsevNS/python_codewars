@@ -379,6 +379,7 @@
 - [Convert PascalCase string into snake_case](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/to_underscore/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/to_underscore/test.py) - [Link to CodeWars](https://www.codewars.com/kata/529b418d533b76924600085d)
 - [Simple Pig Latin](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/pig_it/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/pig_it/test.py) - [Link to CodeWars](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 - [RGB To Hex Conversion](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/rgb/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/rgb/test.py) - [Link to CodeWars](https://www.codewars.com/kata/513e08acc600c94f01000001)
+- [ISBN-10 Validation](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/valid_ISBN10/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/valid_ISBN10/test.py) - [Link to CodeWars](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 
 ### 4 kyu:
 - [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/test.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
