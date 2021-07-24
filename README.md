@@ -312,6 +312,7 @@
 - [Middle Me](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/middle_me.py) - [Link to CodeWars](https://www.codewars.com/kata/59cd155d1a68b70f8e000117)
 - [Club Doorman](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/pass_the_door_man.py) - [Link to CodeWars](https://www.codewars.com/kata/5c563cb78dac1951c2d60f01)
 - [Cost of my ride](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/insurance.py) - [Link to CodeWars](https://www.codewars.com/kata/586430a5b3a675296a000395)
+- [Sum of integers in string](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_of_integers_in_string.py) - [Link to CodeWars](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
