@@ -1,15 +1,18 @@
+from collections import Counter
+
+
 def duplicate_count(s: str) -> int:
-    if len(s) <= 1:
+    """ This function returns the count of distinct case-insensitive alphabetic characters 
+    and numeric digits that occur more than once in the input string """
+    try:
+        if len(s) < 2:
+            return 0
+        counter = dict(Counter(s.lower()))
+        duplicate: dict = {}
+        for k, v in counter.items():
+            if v > 1:
+                duplicate[k] = v        
+        return len(duplicate)
+    except:
         return 0
-    dict_symbol_from_s = {}
-    for i in s:
-        if i.lower() not in dict_symbol_from_s:
-            dict_symbol_from_s[i.lower()] = 1
-        else:
-            dict_symbol_from_s[i.lower()] += 1
-    count_duplicate = 0
-    for v in dict_symbol_from_s:
-        if dict_symbol_from_s[v] > 1:
-            count_duplicate += 1
-    return count_duplicate
      
