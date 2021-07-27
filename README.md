@@ -382,6 +382,7 @@
 - [RGB To Hex Conversion](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/rgb/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/rgb/test.py) - [Link to CodeWars](https://www.codewars.com/kata/513e08acc600c94f01000001)
 - [ISBN-10 Validation](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/valid_ISBN10/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/valid_ISBN10/test.py) - [Link to CodeWars](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 - [Not very secure](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/alphanumeric/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/alphanumeric/test.py) - [Link to CodeWars](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
+- [Mean Square Error](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/solution/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/solution/test.py) - [Link to CodeWars](https://www.codewars.com/kata/51edd51599a189fe7f000015)
 
 ### 4 kyu:
 - [Permutations](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/4KYU/permutations/test.py) - [Link to CodeWars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
