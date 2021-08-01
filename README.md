@@ -369,6 +369,7 @@
 - [HTML dynamic color string generation](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/generate_color_rgb.py) - [Link to CodeWars](https://www.codewars.com/kata/56f1c6034d0c330e4a001059)
 - [Grouped by commas](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/group_by_commas.py) - [Link to CodeWars](https://www.codewars.com/kata/5274e122fc75c0943d000148)
 - [Sort the odd](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/sort_array.py) - [Link to CodeWars](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+- [IP Validation](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_valid_IP.py) - [Link to CodeWars](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/test.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
