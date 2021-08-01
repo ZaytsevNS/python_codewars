@@ -315,6 +315,7 @@
 - [Sum of integers in string](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_of_integers_in_string.py) - [Link to CodeWars](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
 - [Battle of the characters (Easy)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/battle.py) - [Link to CodeWars](https://www.codewars.com/kata/595519279be6c575b5000016)
 - [Maximum Length Difference](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/mxdiflg.py) - [Link to CodeWars](https://www.codewars.com/kata/5663f5305102699bad000056)
+- [Happy Birthday](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/wrap.py) - [Link to CodeWars](https://www.codewars.com/kata/5d65fbdfb96e1800282b5ee0)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
