@@ -116,6 +116,7 @@
 - [Compare within margin](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/close_compare.py) - [Link to CodeWars](https://www.codewars.com/kata/56453a12fcee9a6c4700009c)
 - [To square(root) or not to square(root)](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/square_or_square_root.py) - [Link to CodeWars](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
 - [Enumerable Magic #20 - Cascading Subsets](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/each_cons.py) - [Link to CodeWars](https://www.codewars.com/kata/545af3d185166a3dec001190)
+- [Is there a vowel in there?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_vow.py) - [Link to CodeWars](https://www.codewars.com/kata/57cff961eca260b71900008f)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
