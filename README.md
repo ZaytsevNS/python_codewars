@@ -323,6 +323,7 @@
 - [Remove anchor from URL](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_url_anchor.py) - [Link to CodeWars](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 - [Even and Odd !](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/even_and_odd.py) - [Link to CodeWars](https://www.codewars.com/kata/594adadee075005308000122)
 - [Sum of digits](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_of_digits.py) - [Link to CodeWars](https://www.codewars.com/kata/59cf805aaeb28438fe00001c)
+- [Smallest Product](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/smallest_product.py) - [Link to CodeWars](https://www.codewars.com/kata/5b6b128783d648c4c4000129)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
