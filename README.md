@@ -327,6 +327,7 @@
 - [Halving Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/halving_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)
 - [Strings: swap vowels' case](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/swap_vowel_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5803c0c6ab6c20a06f000026)
 - [V A P O R C O D E](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vaporcode.py) - [Link to CodeWars](https://www.codewars.com/kata/5966eeb31b229e44eb00007a)
+- [Vowel Changer](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_change.py) - [Link to CodeWars](https://www.codewars.com/kata/597754ba62f8a19c98000030)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
