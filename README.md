@@ -329,6 +329,7 @@
 - [V A P O R C O D E](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vaporcode.py) - [Link to CodeWars](https://www.codewars.com/kata/5966eeb31b229e44eb00007a)
 - [Vowel Changer](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_change.py) - [Link to CodeWars](https://www.codewars.com/kata/597754ba62f8a19c98000030)
 - [Strange Strings Parser!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/word_splitter.py) - [Link to CodeWars](https://www.codewars.com/kata/584d88622609c8bda30000cf)
+- [Split In Parts](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/split_in_parts.py) - [Link to CodeWars](https://www.codewars.com/kata/5650ab06d11d675371000003)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
