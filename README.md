@@ -332,6 +332,7 @@
 - [Split In Parts](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/split_in_parts.py) - [Link to CodeWars](https://www.codewars.com/kata/5650ab06d11d675371000003)
 - [Deodorant Evaporator](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/evaporator.py) - [Link to CodeWars](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)
 - [Thinkful - String Drills: Quotable](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/quotable.py) - [Link to CodeWars](https://www.codewars.com/kata/5859c82bd41fc6207900007a)
+- [Previous multiple of three](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/prev_mult_of_three.py) - [Link to CodeWars](https://www.codewars.com/kata/61123a6f2446320021db987d)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
