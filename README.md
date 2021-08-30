@@ -335,6 +335,7 @@
 - [Previous multiple of three](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/prev_mult_of_three.py) - [Link to CodeWars](https://www.codewars.com/kata/61123a6f2446320021db987d)
 - [Words to sentence](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/words_to_sentence.py) - [Link to CodeWars](https://www.codewars.com/kata/57a06005cf1fa5fbd5000216)
 - [The Coupon Code](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/check_coupon.py) - [Link to CodeWars](https://www.codewars.com/kata/539de388a540db7fec000642)
+- [Fix string case](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/fix_string_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
