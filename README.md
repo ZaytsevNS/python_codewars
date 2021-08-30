@@ -337,6 +337,7 @@
 - [The Coupon Code](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/check_coupon.py) - [Link to CodeWars](https://www.codewars.com/kata/539de388a540db7fec000642)
 - [Fix string case](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/fix_string_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5b180e9fedaa564a7000009a)
 - [Predict your age!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/predict_age.py) - [Link to CodeWars](https://www.codewars.com/kata/5aff237c578a14752d0035ae)
+- [Love vs friendship](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/words_to_marks.py) - [Link to CodeWars](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
