@@ -340,6 +340,7 @@
 - [Love vs friendship](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/words_to_marks.py) - [Link to CodeWars](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
 - [Pandemia](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/infected.py) - [Link to CodeWars](https://www.codewars.com/kata/5e2596a9ad937f002e510435)
 - [Pairs of integers from 0 to n](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/generate_pairs.py) - [Link to CodeWars](https://www.codewars.com/kata/588e27b7d1140d31cb000060)
+- [Pairs of integers from m to n](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/generate_pairs_v2.py) - [Link to CodeWars](https://www.codewars.com/kata/588e2a1ad1140d31cb00008c)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
