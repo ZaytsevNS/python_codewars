@@ -344,6 +344,7 @@
 - [All Inclusive?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/contain_all_rots.py) - [Link to CodeWars](https://www.codewars.com/kata/5700c9acc1555755be00027e)
 - [Rithm Series: Frame a Phrase Simple](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/frame.py) - [Link to CodeWars](https://www.codewars.com/kata/5867d76b36959fa4a400034e)
 - [Sequence Determiner](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/determine_sequence.py) - [Link to CodeWars](https://www.codewars.com/kata/610159919347db0019cabddc)
+- [Integer Difference](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/int_diff.py) - [Link to CodeWars](https://www.codewars.com/kata/57741d8f10a0a66915000001)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
