@@ -402,6 +402,7 @@
 - [IP Validation](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_valid_IP.py) - [Link to CodeWars](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 - [Consecutive strings](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/longest_consec.py) - [Link to CodeWars](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
 - [Pyramid Array](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/pyramid.py) - [Link to CodeWars](https://www.codewars.com/kata/515f51d438015969f7000013)
+- [Build Tower](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/tower_builder.py) - [Link to CodeWars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/test.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
