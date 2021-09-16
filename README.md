@@ -405,6 +405,7 @@
 - [Pyramid Array](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/pyramid.py) - [Link to CodeWars](https://www.codewars.com/kata/515f51d438015969f7000013)
 - [Build Tower](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/tower_builder.py) - [Link to CodeWars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 - [Uncollapse Digits](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/uncollapse.py) - [Link to CodeWars](https://www.codewars.com/kata/5a626fc7fd56cb63c300008c)
+- [Bowling Pins](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/bowling_pins.py) - [Link to CodeWars](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/test.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
