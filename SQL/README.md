@@ -18,6 +18,7 @@
 - [SQL Basics: Simple SUM](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/simple_sum.sql) - [Link to CodeWars](https://www.codewars.com/kata/58110da0009b4f7ef80000ad)
 - [SQL Basics: Simple MIN / MAX](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/simple_min_max.sql) - [Link to CodeWars](https://www.codewars.com/kata/581113dce10b531b1d0000bd)
 - [SQL Grasshopper: Select Columns](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/select_columns.sql) - [Link to CodeWars](https://www.codewars.com/kata/582365c18917435ab3000020)
+- [Easy SQL - Ordering](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/easy_sql_ordering.sql) - [Link to CodeWars](https://www.codewars.com/kata/593ed37c93350098d600001d)
 
 ### 7 kyu:
 - [SQL Basics: Simple GROUP BY](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_group_by.sql) - [Link to CodeWars](https://www.codewars.com/kata/58111f4ee10b5301a7000175)
