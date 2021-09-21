@@ -20,6 +20,7 @@
 - [SQL Grasshopper: Select Columns](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/select_columns.sql) - [Link to CodeWars](https://www.codewars.com/kata/582365c18917435ab3000020)
 - [Easy SQL - Ordering](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/easy_sql_ordering.sql) - [Link to CodeWars](https://www.codewars.com/kata/593ed37c93350098d600001d)
 - [SQL Basics: Mod](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/sql_basics_mod.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a9592704e4d21bc000131)
+- [Easy SQL: Rounding Decimals](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/rounding_decimals.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a6133704e4daf5d00003d)
 
 ### 7 kyu:
 - [SQL Basics: Simple GROUP BY](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_group_by.sql) - [Link to CodeWars](https://www.codewars.com/kata/58111f4ee10b5301a7000175)
