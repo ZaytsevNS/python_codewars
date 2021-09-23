@@ -24,6 +24,7 @@
 - [Easy SQL: Square Root and Log](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/square_root_and_log.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a691720ac16a544000075)
 - [Easy SQL: LowerCase](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/lowercase.sql) - [Link to CodeWars](https://www.codewars.com/kata/594800ba6fb152624300006d)
 - [Register for the Party (SQL for Beginners #3)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/register_for_the_party.sql) - [Link to CodeWars](https://www.codewars.com/kata/590cc86f7557c0494000007e)
+- [Easy SQL: Convert to Hexadecimal](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/convert_to_hexadecimal.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a50bafd3b7031c1000013)
 
 ### 7 kyu:
 - [SQL Basics: Simple GROUP BY](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_group_by.sql) - [Link to CodeWars](https://www.codewars.com/kata/58111f4ee10b5301a7000175)
