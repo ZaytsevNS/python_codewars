@@ -347,6 +347,7 @@
 - [Integer Difference](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/int_diff.py) - [Link to CodeWars](https://www.codewars.com/kata/57741d8f10a0a66915000001)
 - [Find the calculation type](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calc_type.py) - [Link to CodeWars](https://www.codewars.com/kata/5aca48db188ab3558e0030fa)
 - [Valid number to 2 decimal places](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/valid_number.py) - [Link to CodeWars](https://www.codewars.com/kata/55f9064161541a9e01000001)
+- [Mobile Display Keystrokes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/mobile_keyboard.py) - [Link to CodeWars](https://www.codewars.com/kata/59564a286e595346de000079)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
