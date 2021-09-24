@@ -349,6 +349,7 @@
 - [Valid number to 2 decimal places](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/valid_number.py) - [Link to CodeWars](https://www.codewars.com/kata/55f9064161541a9e01000001)
 - [Mobile Display Keystrokes](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/mobile_keyboard.py) - [Link to CodeWars](https://www.codewars.com/kata/59564a286e595346de000079)
 - [last digits of a number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solution_last_digits.py) - [Link to CodeWars](https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0)
+- [How sexy is your name?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sexy_name.py) - [Link to CodeWars](https://www.codewars.com/kata/571b2ee08d8c9c0d160014ec)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
