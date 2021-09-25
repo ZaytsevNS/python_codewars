@@ -46,6 +46,7 @@
 - [SQL Basics: Truncating](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/truncating.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a8fa5a2db9e5f290000c3)
 - [SQL Basics - Trimming the Field](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/trimming_the_field.sql) - [Link to CodeWars](https://www.codewars.com/kata/59401c25c15cbeb58d000028)
 - [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/countries_capitals_for_trivia_night.sql) - [Link to CodeWars](https://www.codewars.com/kata/5e5f09dc0a17be0023920f6f)
+- [First and last IP in a network](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/first_and_last_IP_in_a_network.sql) - [Link to CodeWars](https://www.codewars.com/kata/5db5ff03d10bfa001da9cf2e)
 
 ### 6 kyu:
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
