@@ -351,6 +351,7 @@
 - [last digits of a number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/solution_last_digits.py) - [Link to CodeWars](https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0)
 - [How sexy is your name?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sexy_name.py) - [Link to CodeWars](https://www.codewars.com/kata/571b2ee08d8c9c0d160014ec)
 - [Which string is worth more?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/highest_value.py) - [Link to CodeWars](https://www.codewars.com/kata/5840586b5225616069000001)
+- [Negative Connotation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/connotation.py) - [Link to CodeWars](https://www.codewars.com/kata/5ef0456fcd067000321baffa)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
