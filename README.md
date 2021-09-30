@@ -354,6 +354,7 @@
 - [Negative Connotation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/connotation.py) - [Link to CodeWars](https://www.codewars.com/kata/5ef0456fcd067000321baffa)
 - [Counter of neighbor ones](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/ones_counter.py) - [Link to CodeWars](https://www.codewars.com/kata/56ec1e8492446a415e000b63)
 - [Compress sentences](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/compress.py) - [Link to CodeWars](https://www.codewars.com/kata/59de469cfc3c492da80000c5)
+- [Find the Missing Number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/missing_no.py) - [Link to CodeWars](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
