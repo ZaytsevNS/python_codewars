@@ -356,6 +356,7 @@
 - [Compress sentences](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/compress.py) - [Link to CodeWars](https://www.codewars.com/kata/59de469cfc3c492da80000c5)
 - [Find the Missing Number](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/missing_no.py) - [Link to CodeWars](https://www.codewars.com/kata/57f5e7bd60d0a0cfd900032d)
 - [Password Check - Binary to String](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/decode_pass.py) - [Link to CodeWars](https://www.codewars.com/kata/5a731b36e19d14400f000c19)
+- [Test Your Knowledge Of Function Scope](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add.py) - [Link to CodeWars](https://www.codewars.com/kata/56d344c7fd3a52566700124b)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
