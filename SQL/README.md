@@ -50,6 +50,7 @@
 - [SQL: Disorder](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/sql_disorder.sql) - [Link to CodeWars](https://www.codewars.com/kata/59cb550486a6fd10b50000ad)
 - [SQL Basics - Position](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/sql_basics_position.sql) - [Link to CodeWars](https://www.codewars.com/kata/59401e0e54a655a298000040)
 - [SQL with Street Fighter: Total Wins](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/total_wins.sql) - [Link to CodeWars](https://www.codewars.com/kata/5ac698cdd325ad18a3000170)
+- [GROCERY STORE: Real Price!](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/real_price.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8f00745084d718940000c5)
 
 ### 6 kyu:
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
