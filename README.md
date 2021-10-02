@@ -358,6 +358,7 @@
 - [Password Check - Binary to String](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/decode_pass.py) - [Link to CodeWars](https://www.codewars.com/kata/5a731b36e19d14400f000c19)
 - [Test Your Knowledge Of Function Scope](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add.py) - [Link to CodeWars](https://www.codewars.com/kata/56d344c7fd3a52566700124b)
 - [Find the majority](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/majority.py) - [Link to CodeWars](https://www.codewars.com/kata/5af974846bf32304a2000e98)
+- [Functional Addition](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add_v2.py) - [Link to CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
