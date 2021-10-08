@@ -360,6 +360,7 @@
 - [Find the majority](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/majority.py) - [Link to CodeWars](https://www.codewars.com/kata/5af974846bf32304a2000e98)
 - [Functional Addition](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add_v2.py) - [Link to CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)
 - [letters only, please!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_chars.py) - [Link to CodeWars](https://www.codewars.com/kata/59be6bdc4f98a8a9c700007d)
+- [254 shades of grey](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/shades_of_grey.py) - [Link to CodeWars](https://www.codewars.com/kata/54d22119beeaaaf663000024)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
