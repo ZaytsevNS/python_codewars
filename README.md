@@ -363,6 +363,7 @@
 - [254 shades of grey](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/shades_of_grey.py) - [Link to CodeWars](https://www.codewars.com/kata/54d22119beeaaaf663000024)
 - [Are they square?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_square.py) - [Link to CodeWars](https://www.codewars.com/kata/56853c44b295170b73000007)
 - [Collision Detection](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/collision.py) - [Link to CodeWars](https://www.codewars.com/kata/599da159a30addffd00000af)
+- [Strong Number (Special Numbers Series #2)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/strong_num.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4d303f880385399b000001)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
