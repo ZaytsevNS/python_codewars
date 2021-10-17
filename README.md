@@ -361,6 +361,7 @@
 - [Functional Addition](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/add_v2.py) - [Link to CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)
 - [letters only, please!](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_chars.py) - [Link to CodeWars](https://www.codewars.com/kata/59be6bdc4f98a8a9c700007d)
 - [254 shades of grey](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/shades_of_grey.py) - [Link to CodeWars](https://www.codewars.com/kata/54d22119beeaaaf663000024)
+- [Are they square?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_square.py) - [Link to CodeWars](https://www.codewars.com/kata/56853c44b295170b73000007)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
