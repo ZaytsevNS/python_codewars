@@ -365,6 +365,7 @@
 - [Collision Detection](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/collision.py) - [Link to CodeWars](https://www.codewars.com/kata/599da159a30addffd00000af)
 - [Strong Number (Special Numbers Series #2)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/strong_num.py) - [Link to CodeWars](https://www.codewars.com/kata/5a4d303f880385399b000001)
 - [Consecutive letters](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/consecutive_letters.py) - [Link to CodeWars](https://www.codewars.com/kata/5ce6728c939bf80029988b57)
+- [Computer problem series #1: Fill the Hard Disk Drive](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/save.py) - [Link to CodeWars](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
