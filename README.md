@@ -369,7 +369,7 @@
 - [Character Counter](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/validate_word.py) - [Link to CodeWars](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/)
 - [SevenAte9](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/seven_ate9.py) - [Link to CodeWars](https://www.codewars.com/kata/559f44187fa851efad000087/)
 - [All Star Code Challenge #3](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_vowels.py) - [Link to CodeWars](https://www.codewars.com/kata/58640340b3a675d9a70000b9/)
-- []() - []()
+- [CubeSummation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cube_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/550e9fd127c656709400024d/)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
