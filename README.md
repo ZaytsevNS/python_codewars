@@ -371,7 +371,7 @@
 - [All Star Code Challenge #3](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_vowels.py) - [Link to CodeWars](https://www.codewars.com/kata/58640340b3a675d9a70000b9/)
 - [CubeSummation](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/cube_sum.py) - [Link to CodeWars](https://www.codewars.com/kata/550e9fd127c656709400024d/)
 - [Larger Product or Sum](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/sum_or_product.py) - [Link to CodeWars](https://www.codewars.com/kata/5c4cb8fc3cf185147a5bdd02/)
-- []() - [Link to CodeWars]()
+- [Swap items in a dictionary](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/switch_dict.py) - [Link to CodeWars](https://www.codewars.com/kata/5a21e090f28b824def00013c/)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
