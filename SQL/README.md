@@ -52,6 +52,7 @@
 - [SQL with Street Fighter: Total Wins](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/total_wins.sql) - [Link to CodeWars](https://www.codewars.com/kata/5ac698cdd325ad18a3000170)
 - [GROCERY STORE: Real Price!](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/real_price.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8f00745084d718940000c5)
 - [SQL easy regex extraction](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/easy_regex_extraction.sql) - [Link to CodeWars](https://www.codewars.com/kata/5c0ae69d5f72394e130025f6)
+- [Easy SQL: Moving Values](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/moving_values.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a389387a7c6a77a000005)
 
 ### 6 kyu:
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
