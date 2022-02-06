@@ -377,6 +377,9 @@
 - [Noonerize Me](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/noonerize.py) - [Link to CodeWars](https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd/)
 - [Difference between years. (Level 1)](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/how_many_years.py) - [Link to CodeWars](https://www.codewars.com/kata/588f5a38ec641b411200005b)
 - [Counting Duplicates Across Multiple Lists](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_duplicates.py) - [Link to CodeWars](https://www.codewars.com/kata/6113c2dc3069b1001b8fdd05)
+- [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/greet_developers.py) - [Link to CodeWars](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
+- []() - [Link to CodeWars]()
+- []() - [Link to CodeWars]()
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
