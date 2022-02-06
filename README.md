@@ -379,7 +379,7 @@
 - [Counting Duplicates Across Multiple Lists](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_duplicates.py) - [Link to CodeWars](https://www.codewars.com/kata/6113c2dc3069b1001b8fdd05)
 - [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/greet_developers.py) - [Link to CodeWars](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
 - [Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_ruby_coming.py) - [Link to CodeWars](https://www.codewars.com/kata/5827acd5f524dd029d0005a4)
-- []() - [Link to CodeWars]()
+- [Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_languages.py) - [Link to CodeWars](https://www.codewars.com/kata/5828713ed04efde70e000346)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
