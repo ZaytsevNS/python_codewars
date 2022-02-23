@@ -442,6 +442,7 @@
 - [Bowling Pins](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/bowling_pins.py) - [Link to CodeWars](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010)
 - [Coding Meetup #7 - Higher-Order Functions Series - Find the most senior developer](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_senior.py) - [Link to CodeWars](https://www.codewars.com/kata/582887f7d04efdaae3000090)
 - [Coding Meetup #9 - Higher-Order Functions Series - Is the meetup age-diverse?](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/is_age_diverse.py) - [Link to CodeWars](https://www.codewars.com/kata/5829ca646d02cd1a65000284)
+- [Coding Meetup #15 - Higher-Order Functions Series - Find the odd names](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_odd_names.py) - [Link to CodeWars](https://www.codewars.com/kata/583a8bde28019d615a000035)
 
 ### 5 kyu:
 - [Human Readable Time](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/main.py) + [Test](https://github.com/ZaytsevNS/python_codewars/blob/main/5KYU/make_readable/test.py) - [Link to CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
