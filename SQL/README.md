@@ -53,6 +53,7 @@
 - [GROCERY STORE: Real Price!](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/real_price.sql) - [Link to CodeWars](https://www.codewars.com/kata/5a8f00745084d718940000c5)
 - [SQL easy regex extraction](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/easy_regex_extraction.sql) - [Link to CodeWars](https://www.codewars.com/kata/5c0ae69d5f72394e130025f6)
 - [Easy SQL: Moving Values](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/moving_values.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a389387a7c6a77a000005)
+- [SQL Basics: Repeat and Reverse](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/repeat_and_reverse.sql) - [Link to CodeWars](https://www.codewars.com/kata/59414360f5c3947364000070)
 
 ### 6 kyu:
 - [SQL Basics: Simple HAVING](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_having.sql) - [Link to CodeWars](https://www.codewars.com/kata/58164ddf890632ce00000220)
