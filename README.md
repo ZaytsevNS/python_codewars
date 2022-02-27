@@ -119,6 +119,7 @@
 - [Is there a vowel in there?](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/is_vow.py) - [Link to CodeWars](https://www.codewars.com/kata/57cff961eca260b71900008f)
 - [Regular Ball Super Ball](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/ball.py) - [Link to CodeWars](https://www.codewars.com/kata/53f0f358b9cb376eca001079)
 - [Check same case](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/same_case.py) - [Link to CodeWars](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)
+- [Simple validation of a username with regex](https://github.com/ZaytsevNS/python_codewars/blob/main/8KYU/validate_usr.py) - [Link to CodeWars](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)
 
 ### 7 kyu:
 - [The old switcheroo](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/vowel_to_index.py) - [Link to CodeWars](https://www.codewars.com/kata/55d410c492e6ed767000004f)
