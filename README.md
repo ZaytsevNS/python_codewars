@@ -381,6 +381,7 @@
 - [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/greet_developers.py) - [Link to CodeWars](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
 - [Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/is_ruby_coming.py) - [Link to CodeWars](https://www.codewars.com/kata/5827acd5f524dd029d0005a4)
 - [Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/count_languages.py) - [Link to CodeWars](https://www.codewars.com/kata/5828713ed04efde70e000346)
+- [Dot Calculator](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/calculator.py) - [Link to CodeWars](https://www.codewars.com/kata/6071ef9cbe6ec400228d9531)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
