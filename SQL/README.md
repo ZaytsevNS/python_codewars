@@ -27,6 +27,7 @@
 - [Easy SQL: Convert to Hexadecimal](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/convert_to_hexadecimal.sql) - [Link to CodeWars](https://www.codewars.com/kata/594a50bafd3b7031c1000013)
 - [Grasshopper - Terminal game move function](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/terminal_game_move_function.sql) - [Link to CodeWars](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2)
 - [Grasshopper - Check for factor](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/check_for_factor.sql) - [Link to CodeWars](https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
+- [1. Find all active students](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/8KYU/find_all_active_students.sql) - [Link to CodeWars](https://www.codewars.com/kata/5809b9ef88b750ab180001ec)
 
 ### 7 kyu:
 - [SQL Basics: Simple GROUP BY](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/7KYU/simple_group_by.sql) - [Link to CodeWars](https://www.codewars.com/kata/58111f4ee10b5301a7000175)
