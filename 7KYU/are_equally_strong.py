@@ -1,0 +1,2 @@
+def are_equally_strong(your_left: int, your_right: int, friends_left: int, friends_right: int) -> bool:
+    return (your_left == friends_left or your_left == friends_right) and (your_right == friends_right or your_right == friends_left)
