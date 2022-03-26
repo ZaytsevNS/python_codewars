@@ -389,6 +389,9 @@
 - [max diff - easy](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/max_diff.py) - [Link to CodeWars](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/)
 - [Spacify](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/spacify.py) - [Link to CodeWars](https://www.codewars.com/kata/57f8ee485cae443c4d000127/)
 - [Case swapping](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/swap.py) - [Link to CodeWars](https://www.codewars.com/kata/5590961e6620c0825000008f/)
+- [Coding Meetup #11 - Higher-Order Functions Series - Find the average age](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/get_average.py) - [Link to CodeWars](https://www.codewars.com/kata/582ba36cc1901399a70005fc/)
+- [Exclamation marks series #7: Remove words from the sentence if it contains one exclamation mark](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/remove_v2.py) - [Link to CodeWars](https://www.codewars.com/kata/57fafb6d2b5314c839000195/)
+- [Double Every Other](https://github.com/ZaytsevNS/python_codewars/blob/main/7KYU/double_every_other.py) - [Link to CodeWars](https://www.codewars.com/kata/5809c661f15835266900010a/)
 
 ### 6 kyu:
 - [Find the unique number](https://github.com/ZaytsevNS/python_codewars/blob/main/6KYU/find_uniq.py) - [Link to CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
