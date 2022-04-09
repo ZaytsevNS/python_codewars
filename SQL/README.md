@@ -68,6 +68,7 @@
 - [SQL Basics: Top 10 customers by total payments amount](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/top_10_customers_by_total_payments_amount.sql) - [Link to CodeWars](https://www.codewars.com/kata/580d08b5c049aef8f900007c)
 - [Calculating Batting Average](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/calculating_batting_average.sql) - [Link to CodeWars](https://www.codewars.com/kata/5994dafcbddc2f116d000024)
 - [Conditional Count](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/conditional_count.sql) - [Link to CodeWars](https://www.codewars.com/kata/5816a3ecf54413a113000074)
+- [SQL Basics: Simple WITH]() - [Link to CodeWars](https://www.codewars.com/kata/5811501c2d35672d4f000146/)
 
 ### 5 kyu:
 - [...]
