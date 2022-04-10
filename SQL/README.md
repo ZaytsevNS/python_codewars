@@ -71,7 +71,7 @@
 - [SQL Basics: Simple WITH](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/6KYU/simple_with.sql) - [Link to CodeWars](https://www.codewars.com/kata/5811501c2d35672d4f000146/)
 
 ### 5 kyu:
-- [...]
+- [Calculating Running Total](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/5KYU/running_total.sql) - [Link to CodeWars](https://www.codewars.com/kata/589cf45835f99b2909000115/)
 
 ### 4 kyu:
 - [...]
