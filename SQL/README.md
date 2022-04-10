@@ -72,6 +72,7 @@
 
 ### 5 kyu:
 - [Calculating Running Total](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/5KYU/running_total.sql) - [Link to CodeWars](https://www.codewars.com/kata/589cf45835f99b2909000115/)
+- [SQL Statistics: MIN, MEDIAN, MAX](https://github.com/ZaytsevNS/python_codewars/blob/main/SQL/5KYU/min_median_max.sql) - [Link to CodeWars](https://www.codewars.com/kata/58167fa1f544130dcf000317/)
 
 ### 4 kyu:
 - [...]
