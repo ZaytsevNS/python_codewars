@@ -4,7 +4,6 @@ def wave(people: str) -> list:
     """ This function turns a string into a Mexican Wave """
     wave: list = []
     for i in range(len(people)):
-        if people[i] == ' ':
-            continue
-        wave.append(people[:i] + people[i].upper() + people[i+1:])
+        if people[i].isalpha():
+            wave.append(people[:i] + people[i].upper() + people[i+1:])
     return wave
