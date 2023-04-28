@@ -6,8 +6,8 @@ from typing import Optional
 
 def thin_or_fat(matrix: list) -> Optional[str]:
     try:
-        sum_widths = sum([sqrt(sum(i)) for i in matrix])
+        sum_width = sum([sqrt(sum(i)) for i in matrix])
         sum_height = sum([sqrt(sum(i)) for i in zip(*matrix)])
-        return 'thin' if sum_widths < sum_height  else ('fat' if sum_widths > sum_height else 'perfect')
+        return 'thin' if sum_width < sum_height  else ('fat' if sum_width > sum_height else 'perfect')
     except ValueError:
         return None
