@@ -13,3 +13,4 @@ def pass_the_door_man(word: str) -> int:
                         return k * 3
     except:
         return -1
+    
