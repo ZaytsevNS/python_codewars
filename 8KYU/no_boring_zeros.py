@@ -1,5 +1,6 @@
 from numpy import trim_zeros
 
+
 def no_boring_zeros(num: int) -> int:
     digit_num = []
     for i in str(abs(num)):
